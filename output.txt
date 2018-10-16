@@ -1,0 +1,1260 @@
+4.95	4.90	4.88	松川	Matsukawa	https://tabelog.com/tw/tokyo/A1307/A130701/13124391/
+4.89	4.81	4.86	鮨 さいとう	Saito	https://tabelog.com/tw/tokyo/A1308/A130802/13015251/
+4.86	4.85	4.36	銀座 しのはら	Shinohara	https://tabelog.com/tw/tokyo/A1301/A130101/13200949/
+4.84	4.79	4.80	日本橋蛎殻町 すぎた	Sugita	https://tabelog.com/tw/tokyo/A1302/A130204/13018162/
+4.83	4.72	4.75	フォリオリーナ・デッラ・ポルタ・フォルトゥーナ	Fogliolina della Porta Fortuna	https://tabelog.com/tw/nagano/A2003/A200301/20011920/
+4.79	4.80	4.51	カンテサンス	Quintessence	https://tabelog.com/tw/tokyo/A1314/A131405/13159567/
+4.76	4.76	3.09	本湖月	Honkogetsu	https://tabelog.com/tw/osaka/A2701/A270202/27001286/
+4.75	4.77	4.53	京味	Kyoaji	https://tabelog.com/tw/tokyo/A1301/A130103/13002887/
+4.74	4.60	4.64	柳家	Yanagiya	https://tabelog.com/tw/gifu/A2103/A210301/21000023/
+4.74	4.74	4.62	エクアトゥール	Restaurant l'equateur	https://tabelog.com/tw/tokyo/A1307/A130702/13121866/
+4.73	4.73	-	にい留	niitome	https://tabelog.com/tw/aichi/A2301/A230104/23050337/
+4.71	4.75	3.54	SUGALABO	SUGALABO	https://tabelog.com/tw/tokyo/A1307/A130704/13182678/
+4.69	4.62	4.63	草喰 なかひがし	Soujiki Nakahigashi	https://tabelog.com/tw/kyoto/A2601/A260302/26001800/
+4.68	4.70	4.68	トゥ・ラ・ジョア	Tout la Joie	https://tabelog.com/tw/aichi/A2301/A230105/23033296/
+4.67	4.67	3.74	緒方	Ogata	https://tabelog.com/tw/kyoto/A2601/A260201/26012136/
+4.66	4.65	3.56	未在	Mizai	https://tabelog.com/tw/kyoto/A2601/A260301/26002279/
+4.66	4.66	-	ペレグリーノ	PELLEGRINO	https://tabelog.com/tw/tokyo/A1303/A130302/13072775/
+4.64	4.66	-	にくの匠 三芳	Miyoshi	https://tabelog.com/tw/kyoto/A2601/A260301/26002222/
+4.64	4.64	-	鮨 はしぐち	Hashiguchi	https://tabelog.com/tw/tokyo/A1308/A130801/13134517/
+4.62	4.46	4.67	レフェルヴェソンス	L'Effervescence	https://tabelog.com/tw/tokyo/A1306/A130602/13116356/
+4.62	4.64	3.06	旬席 鈴江	Suzue	https://tabelog.com/tw/kyoto/A2601/A260301/26014309/
+4.62	4.62	-	飯田	Iida	https://tabelog.com/tw/kyoto/A2601/A260202/26016833/
+4.62	4.62	-	フルタ	Furuta	https://tabelog.com/tw/tokyo/A1313/A131301/13176780/
+4.61	4.61	3.55	寿しの吉乃	Sushi no Yoshino	https://tabelog.com/tw/aichi/A2301/A230103/23047555/
+4.61	4.55	4.33	CHIUnE	CHIUnE	https://tabelog.com/tw/tokyo/A1301/A130101/13203796/
+4.61	4.63	3.09	と村	Tomura	https://tabelog.com/tw/tokyo/A1308/A130802/13005027/
+4.60	4.60	-	趙楊	Choyo	https://tabelog.com/tw/tokyo/A1301/A130103/13172920/
+4.60	4.60	-	味満ん	Ajiman	https://tabelog.com/tw/tokyo/A1307/A130701/13001332/
+4.59	4.61	3.55	SATOブリアン にごう	SATO Buriand	https://tabelog.com/tw/tokyo/A1319/A131905/13159782/
+4.58	4.62	3.98	カセント	Ca sento	https://tabelog.com/tw/hyogo/A2801/A280102/28009509/
+4.58	4.58	-	虎白	Kohaku	https://tabelog.com/tw/tokyo/A1309/A130905/13049130/
+4.58	4.45	4.62	三谷	Mitani	https://tabelog.com/tw/tokyo/A1309/A130902/13042204/
+4.57	4.57	3.15	鳥しき	Torishiki	https://tabelog.com/tw/tokyo/A1316/A131601/13041029/
+4.57	4.45	4.45	エスキス	ESqUISSE	https://tabelog.com/tw/tokyo/A1301/A130101/13142530/
+4.57	4.39	4.53	比良山荘	Hirasansou	https://tabelog.com/tw/shiga/A2501/A250101/25000772/
+4.56	4.56	3.04	かぶと	Kabuto	https://tabelog.com/tw/tokyo/A1305/A130501/13016660/
+4.55	4.54	-	前田	Maeda	https://tabelog.com/tw/kyoto/A2601/A260301/26020923/
+4.54	4.54	4.52	日本料理 たかむら	Takamura	https://tabelog.com/tw/akita/A0501/A050101/5000664/
+4.54	4.54	3.54	らん亭～ 美日庵	Ranteibibian	https://tabelog.com/tw/fukushima/A0702/A070201/7000278/
+4.53	4.46	4.57	天寿し 京町店	Tenzushi Kyomachi	https://tabelog.com/tw/fukuoka/A4004/A400401/40000721/
+4.53	4.42	4.47	日の出	Hinode	https://tabelog.com/tw/mie/A2402/A240203/24000026/
+4.53	4.48	4.54	虎屋 壺中庵	Toraya Kochuan	https://tabelog.com/tw/tokushima/A3601/A360104/36000369/
+4.53	4.44	4.41	やまぐち	Yamaguchi	https://tabelog.com/tw/kyoto/A2601/A260301/26018397/
+4.52	4.53	4.41	茶禅華	Sazenka	https://tabelog.com/tw/tokyo/A1307/A130703/13205298/
+4.52	4.49	3.98	鮨 一幸	Sushi Ikko	https://tabelog.com/tw/hokkaido/A0101/A010102/1044489/
+4.52	4.52	4.47	もりかわ	Morikawa	https://tabelog.com/tw/tokyo/A1308/A130801/13002772/
+4.51	4.53	-	東麻布 天本	Amamoto	https://tabelog.com/tw/tokyo/A1314/A131401/13196420/
+4.51	4.51	-	鮨 さかい	Sakai	https://tabelog.com/tw/fukuoka/A4001/A400103/40034544/
+4.51	4.25	4.58	齋華	Saika	https://tabelog.com/tw/kyoto/A2601/A260304/26023771/
+4.51	4.50	3.57	長谷川 稔	Hasegawaminoru	https://tabelog.com/tw/tokyo/A1307/A130703/13220575/
+4.50	4.46	4.38	ガストロノミー ジョエル・ロブション	Joel Robuchon	https://tabelog.com/tw/tokyo/A1303/A130302/13009310/
+4.49	4.23	4.50	すし処 ひさ田	Hisada	https://tabelog.com/tw/okayama/A3301/A330104/33000059/
+4.49	4.49	3.06	蕃 YORONIKU	EBISU YORONIKU	https://tabelog.com/tw/tokyo/A1303/A130302/13211927/
+4.49	4.51	-	かわむら	Kawamura	https://tabelog.com/tw/tokyo/A1301/A130101/13016506/
+4.49	4.49	-	USHIGORO S. NISHIAZABU	USHIGORO S.	https://tabelog.com/tw/tokyo/A1307/A130701/13209611/
+4.49	4.49	-	田ざわ	Tazawa	https://tabelog.com/tw/hokkaido/A0105/A010501/1000077/
+4.49	4.48	-	竹屋町 三多	Mita	https://tabelog.com/tw/kyoto/A2601/A260302/26016620/
+4.48	4.43	4.47	レ セゾン	Les Saisons	https://tabelog.com/tw/tokyo/A1301/A130102/13002294/
+4.47	4.49	3.72	SATOブリアン	SATO Buriand	https://tabelog.com/tw/tokyo/A1319/A131905/13127046/
+4.47	4.33	4.21	すきやばし 次郎	Sukiyabashi Jiro	https://tabelog.com/tw/tokyo/A1301/A130101/13002260/
+4.47	4.47	3.60	赤坂 詠月	Eigetsu	https://tabelog.com/tw/tokyo/A1308/A130801/13116523/
+4.47	4.25	4.41	招福樓 本店	Shofukuro	https://tabelog.com/tw/shiga/A2503/A250302/25000052/
+4.47	4.34	4.39	ボニュ	Bon.nu	https://tabelog.com/tw/tokyo/A1304/A130401/13184186/
+4.47	4.47	-	USHIGORO S Ginza	USHIGORO S	https://tabelog.com/tw/tokyo/A1301/A130101/13222093/
+4.46	4.48	4.44	鮨 あらい	Arai	https://tabelog.com/tw/tokyo/A1301/A130101/13188186/
+4.46	4.46	3.05	カハラ	Kahala	https://tabelog.com/tw/osaka/A2701/A270101/27000188/
+4.46	4.46	4.07	ete	été	https://tabelog.com/tw/tokyo/A1303/A130301/13185038/
+4.46	4.46	-	すし宮川 	Miyakawa	https://tabelog.com/tw/hokkaido/A0101/A010105/1046463/
+4.46	3.77	4.40	川喜	Kawaki	https://tabelog.com/tw/fukui/A1801/A180102/18000003/
+4.45	4.46	3.99	富小路 やま岸	Yamagishi	https://tabelog.com/tw/kyoto/A2601/A260201/26026316/
+4.45	4.45	-	啐啄 つか本	Sottaku Tsukamoto	https://tabelog.com/tw/kyoto/A2601/A260301/26013373/
+4.44	4.50	4.34	鮨菜 和喜智	Sushisai Wakichi	https://tabelog.com/tw/hokkaido/A0101/A010105/1000645/
+4.44	4.52	4.14	レミニセンス	Reminiscence	https://tabelog.com/tw/aichi/A2301/A230105/23057000/
+4.44	4.44	-	ぎおん 阪川	Sakagawa	https://tabelog.com/tw/kyoto/A2601/A260301/26001726/
+4.44	4.44	4.16	TACUBO	TACUBO	https://tabelog.com/tw/tokyo/A1303/A130303/13109940/
+4.44	4.44	3.92	レストラン クレッセント	RESTAURANT CRESCENT	https://tabelog.com/tw/tokyo/A1314/A131401/13001521/
+4.44	4.46	-	たかおか	Takaoka	https://tabelog.com/tw/chiba/A1201/A120101/12032785/
+4.44	4.44	-	野嵯和	Nozawa	https://tabelog.com/tw/aichi/A2301/A230109/23063362/
+4.43	4.43	3.33	スタミナ苑	Sutaminaen	https://tabelog.com/tw/tokyo/A1323/A132305/13003777/
+4.43	4.44	4.37	ロオジエ	L'OSIER	https://tabelog.com/tw/tokyo/A1301/A130101/13002607/
+4.43	4.43	3.00	鮨 尚充	Takamitsu	https://tabelog.com/tw/tokyo/A1317/A131701/13128483/
+4.43	4.42	-	麻布 幸村	Yukimura	https://tabelog.com/tw/tokyo/A1307/A130702/13005316/
+4.43	4.42	4.48	寿司一	Sushi Ichi	https://tabelog.com/tw/aomori/A0201/A020101/2000121/
+4.42	4.54	3.58	美かさ	Mikasa	https://tabelog.com/tw/kanagawa/A1405/A140507/14000813/
+4.42	4.43	4.29	ラチュレ	LATURE	https://tabelog.com/tw/tokyo/A1303/A130301/13198692/
+4.42	4.27	4.42	ウシマル	Ushimaru	https://tabelog.com/tw/chiba/A1205/A120502/12000598/
+4.42	4.28	4.14	割烹 美加登家	Mikadoya	https://tabelog.com/tw/shimane/A3204/A320402/32000061/
+4.41	4.46	4.25	御料理 はやし	Hayashi	https://tabelog.com/tw/kyoto/A2601/A260302/26000305/
+4.41	4.46	3.99	照寿司	Teruzushi	https://tabelog.com/tw/fukuoka/A4004/A400402/40001637/
+4.41	4.42	3.65	傳	den	https://tabelog.com/tw/tokyo/A1306/A130603/13046855/
+4.40	4.40	4.13	SALONE 2007	SALONE 2007	https://tabelog.com/tw/kanagawa/A1401/A140105/14010542/
+4.40	4.38	4.50	さわ田	Sawada	https://tabelog.com/tw/tokyo/A1301/A130101/13001043/
+4.40	4.46	4.31	あさば	Asaba	https://tabelog.com/tw/shizuoka/A2205/A220504/22000220/
+4.40	4.42	4.28	近松	Chikamatsu	https://tabelog.com/tw/fukuoka/A4001/A400104/40000415/
+4.39	4.42	4.19	すし匠	Sushi Sho	https://tabelog.com/tw/tokyo/A1309/A130902/13000852/
+4.39	4.42	4.21	日本料理 晴山	SEIZAN	https://tabelog.com/tw/tokyo/A1314/A131402/13127807/
+4.39	4.39	3.54	鮨 なんば	Namba	https://tabelog.com/tw/tokyo/A1319/A131905/13127515/
+4.39	4.41	3.59	肉屋 雪月花 NAGOYA	NIKUYA SETSUGEKKA NAGOYA	https://tabelog.com/tw/aichi/A2301/A230101/23061072/
+4.39	4.39	-	御料理 宮坂	Miyasaka	https://tabelog.com/tw/tokyo/A1306/A130602/13184986/
+4.39	4.15	4.32	美山荘	Miyamasou	https://tabelog.com/tw/kyoto/A2601/A260504/26001066/
+4.39	4.39	-	にしぶち飯店	Nishibuchi Hanten	https://tabelog.com/tw/kyoto/A2601/A260301/26022200/
+4.39	4.39	-	肉割烹 上	Nikukappoujou	https://tabelog.com/tw/tokyo/A1307/A130701/13209614/
+4.38	4.32	4.18	リストランテ 濱崎	RISTORANTE HAMASAKI	https://tabelog.com/tw/tokyo/A1306/A130602/13005340/
+4.38	4.38	-	米増	Yonemasu	https://tabelog.com/tw/osaka/A2701/A270101/27095726/
+4.37	4.37	-	神楽坂 石かわ	Ishikawa	https://tabelog.com/tw/tokyo/A1309/A130905/13004079/
+4.37	4.20	4.49	徳山鮓	Tokuyamazushi	https://tabelog.com/tw/shiga/A2504/A250403/25002104/
+4.37	4.37	3.16	まき村	Makimura	https://tabelog.com/tw/tokyo/A1315/A131502/13003338/
+4.37	4.40	4.02	アカ	Aca 1°	https://tabelog.com/tw/kyoto/A2601/A260202/26023268/
+4.37	4.37	-	壽山	Suyama	https://tabelog.com/tw/hokkaido/A0101/A010103/1030040/
+4.37	4.36	3.57	TSU・SHI・MI	TSU・SHI・MI	https://tabelog.com/tw/tokyo/A1318/A131801/13121317/
+4.36	4.31	3.87	すし 喜邑	Kimura	https://tabelog.com/tw/tokyo/A1317/A131708/13026584/
+4.35	4.35	-	インカント	Incanto	https://tabelog.com/tw/tokyo/A1307/A130703/13043684/
+4.35	4.39	3.93	すし処 めくみ	Mekumi	https://tabelog.com/tw/ishikawa/A1702/A170203/17000700/
+4.35	4.33	4.04	鮨 なんば	Sushinamba	https://tabelog.com/tw/tokyo/A1301/A130102/13219857/
+4.35	4.35	-	青空	Harutaka	https://tabelog.com/tw/tokyo/A1301/A130103/13032283/
+4.34	4.21	4.47	アピシウス	APICIUS	https://tabelog.com/tw/tokyo/A1301/A130102/13000145/
+4.34	4.35	4.30	てんぷら 深町	Fukamachi	https://tabelog.com/tw/tokyo/A1302/A130202/13004105/
+4.34	4.36	3.50	ル・マンジュ・トゥー	Le Mange-Tout	https://tabelog.com/tw/tokyo/A1309/A130905/13000469/
+4.34	4.26	4.29	菊鮨	Kikuzushi	https://tabelog.com/tw/fukuoka/A4003/A400301/40010675/
+4.34	4.34	3.65	ハジメ	HAJIME	https://tabelog.com/tw/osaka/A2701/A270102/27015488/
+4.34	4.30	4.34	イチリン ハナレ	Ichirin hanare	https://tabelog.com/tw/kanagawa/A1404/A140402/14066990/
+4.34	4.36	3.81	お料理 宮本	Miyamoto	https://tabelog.com/tw/osaka/A2701/A270103/27068283/
+4.34	4.38	-	料理 川口	Kawaguchi	https://tabelog.com/tw/kyoto/A2601/A260301/26006453/
+4.33	4.33	3.14	よろにく	Yoroniku	https://tabelog.com/tw/tokyo/A1306/A130602/13042979/
+4.33	4.45	3.87	きよ田	Kiyota	https://tabelog.com/tw/tokyo/A1301/A130101/13070238/
+4.32	4.28	4.20	ラ ペ	La paix	https://tabelog.com/tw/tokyo/A1302/A130202/13173559/
+4.32	4.32	-	寿司栄	Sushiei	https://tabelog.com/tw/chiba/A1201/A120101/12019424/
+4.32	4.15	4.32	活鰻の店 つぐみ庵	Tsugumian	https://tabelog.com/tw/tokyo/A1323/A132301/13080463/
+4.32	4.32	3.74	ステーキハウス キッチンリボン	Sutekihausukicchinribon	https://tabelog.com/tw/aichi/A2301/A230108/23000494/
+4.32	4.27	4.24	レストラン ラ フィネス	Restaurant La FinS	https://tabelog.com/tw/tokyo/A1301/A130103/13139171/
+4.32	4.32	-	樋口	Higuchi	https://tabelog.com/tw/tokyo/A1306/A130601/13001215/
+4.32	4.32	3.73	佐藤	Sato	https://tabelog.com/tw/fukuoka/A4004/A400401/40000240/
+4.32	4.32	3.06	もめん	Momen	https://tabelog.com/tw/osaka/A2701/A270201/27017665/
+4.32	4.32	3.56	麻布十番 ふくだ	Fukuda	https://tabelog.com/tw/tokyo/A1307/A130702/13174951/
+4.31	4.30	4.13	レヴォ	L'evo	https://tabelog.com/tw/toyama/A1601/A160101/16007021/
+4.31	4.31	-	鮨みなと	Minato	https://tabelog.com/tw/hokkaido/A0104/A010401/1001719/
+4.31	4.31	3.51	虎峰	Koho	https://tabelog.com/tw/tokyo/A1307/A130701/13194122/
+4.31	4.31	3.06	神戸牛炉釜炭焼ステーキ IDEA 銀座	IDEA	https://tabelog.com/tw/tokyo/A1301/A130101/13161192/
+4.31	4.33	3.95	SHOKUDO YArn	SHOKUDO YArn	https://tabelog.com/tw/ishikawa/A1702/A170202/17009741/
+4.31	4.30	4.32	京懐石 八泉	Hachisen	https://tabelog.com/tw/aichi/A2301/A230107/23001725/
+4.31	4.31	3.06	召膳 無苦庵	Sizen Mukuan	https://tabelog.com/tw/wakayama/A3004/A300402/30008100/
+4.30	4.30	3.53	炭焼 金竜山	Kinryusan	https://tabelog.com/tw/tokyo/A1316/A131602/13001625/
+4.30	4.30	-	カモシヤ クスモト	Kamoshiya Kusumoto	https://tabelog.com/tw/osaka/A2701/A270108/27010572/
+4.30	4.30	3.06	じどりや 穏座	ONZA	https://tabelog.com/tw/shiga/A2501/A250101/25000920/
+4.30	4.30	3.06	豪龍久保	Goryukubo	https://tabelog.com/tw/tokyo/A1306/A130602/13156859/
+4.30	4.30	-	鷹匠壽	Takajo Kotobuki	https://tabelog.com/tw/tokyo/A1311/A131102/13003661/
+4.30	4.30	3.06	鮨　縁	Sushien	https://tabelog.com/tw/okayama/A3301/A330101/33001952/
+4.30	4.33	4.07	かたつむり	Katatsumuri	https://tabelog.com/tw/gifu/A2101/A210105/21012387/
+4.29	4.32	4.18	鮨 とかみ	Tokami	https://tabelog.com/tw/tokyo/A1301/A130103/13155234/
+4.29	4.35	4.05	日本料理 太月	Tagetsu	https://tabelog.com/tw/tokyo/A1306/A130602/13160021/
+4.29	4.40	4.15	銀座 ハプスブルク・ファイルヒェン	GINZA HABSBURG VEILCHEN	https://tabelog.com/tw/tokyo/A1301/A130101/13139747/
+4.29	4.22	4.20	太平寿し	Taheizushi	https://tabelog.com/tw/ishikawa/A1702/A170203/17000118/
+4.29	4.29	-	銀座 盡	Jin	https://tabelog.com/tw/tokyo/A1301/A130101/13208309/
+4.29	4.29	-	INUA	INUA	https://tabelog.com/tw/tokyo/A1309/A130905/13223613/
+4.28	4.28	4.20	第三春美鮨	Daisan Harumisushi	https://tabelog.com/tw/tokyo/A1301/A130103/13002140/
+4.28	4.28	-	すし匠 齋藤	Sushi Sho Saito	https://tabelog.com/tw/tokyo/A1308/A130801/13023988/
+4.28	4.01	4.31	bb9	Bb9	https://tabelog.com/tw/hyogo/A2801/A280102/28039815/
+4.28	4.30	3.77	高台寺 和久傳	Kodaiji Wakuden	https://tabelog.com/tw/kyoto/A2601/A260301/26000535/
+4.28	4.27	3.69	いち太	Ichita	https://tabelog.com/tw/tokyo/A1306/A130603/13176396/
+4.28	4.28	3.54	はっこく	Hakkoku	https://tabelog.com/tw/tokyo/A1301/A130101/13217157/
+4.28	4.26	4.17	懐石 辻留	Tsujitome	https://tabelog.com/tw/tokyo/A1308/A130801/13001228/
+4.28	4.32	-	安久	Ankyu	https://tabelog.com/tw/kyoto/A2601/A260301/26018405/
+4.27	4.27	3.06	山猫軒	Yamanekoken	https://tabelog.com/tw/aichi/A2301/A230102/23001482/
+4.27	4.26	3.96	鮨 ます田	Masuda	https://tabelog.com/tw/tokyo/A1306/A130602/13164883/
+4.26	4.25	4.22	Ode	Ode	https://tabelog.com/tw/tokyo/A1307/A130703/13213368/
+4.26	4.26	-	寿し ひでたか	Hidetaka	https://tabelog.com/tw/hokkaido/A0101/A010103/1038603/
+4.26	4.26	4.17	御幸町 田がわ	Tagawa	https://tabelog.com/tw/kyoto/A2601/A260202/26028604/
+4.26	4.27	3.64	鮨 おおが	Sushiooga	https://tabelog.com/tw/osaka/A2705/A270501/27104114/
+4.25	4.20	4.24	コート ドール	COTE D'OR	https://tabelog.com/tw/tokyo/A1316/A131602/13001681/
+4.25	4.22	3.90	北島亭	Kitajimatei	https://tabelog.com/tw/tokyo/A1309/A130902/13000945/
+4.25	3.85	4.17	瓢亭 本店	Hyotei	https://tabelog.com/tw/kyoto/A2601/A260301/26001012/
+4.25	4.34	4.11	ル・ジャルダン・デ・サヴール	Le jardin des saveurs	https://tabelog.com/tw/tokyo/A1301/A130101/13002341/
+4.25	4.24	3.97	うを徳	Uwotoku	https://tabelog.com/tw/tokyo/A1312/A131203/13017947/
+4.25	4.25	-	尽誠	Jinsei	https://tabelog.com/tw/osaka/A2701/A270201/27000411/
+4.25	4.25	-	ふぐ 福治	Fukuji	https://tabelog.com/tw/tokyo/A1301/A130101/13004009/
+4.25	4.25	-	西麻布 K+	NISHIAZABU K+	https://tabelog.com/tw/tokyo/A1307/A130703/13213748/
+4.25	4.25	4.17	木山	Kiyama	https://tabelog.com/tw/kyoto/A2601/A260202/26029017/
+4.25	4.25	-	臼杵ふぐ 山田屋 西麻布	Yamadaya Nishiazabu	https://tabelog.com/tw/tokyo/A1307/A130703/13034857/
+4.25	4.13	4.19	THIERRY MARX	THIERRY MARX	https://tabelog.com/tw/tokyo/A1301/A130101/13199524/
+4.25	4.26	3.60	銀座くどう	Ginzakudou	https://tabelog.com/tw/tokyo/A1301/A130101/13212919/
+4.24	4.24	3.54	鳥茂	Torishige	https://tabelog.com/tw/tokyo/A1304/A130401/13001067/
+4.24	4.21	4.05	Fujiya 1935	Fujiya 1935	https://tabelog.com/tw/osaka/A2701/A270106/27001070/
+4.24	4.29	4.04	マダム・トキ	Madame Toki	https://tabelog.com/tw/tokyo/A1303/A130303/13001707/
+4.24	4.29	4.09	ラシェット・ブランシュ	L'Assiette Blanche	https://tabelog.com/tw/tokyo/A1316/A131602/13004471/
+4.24	4.24	-	匠 進吾	Takumi Shingo	https://tabelog.com/tw/tokyo/A1306/A130603/13155925/
+4.24	4.24	3.08	御宿かわせみ	Onyadokawasemi	https://tabelog.com/tw/fukushima/A0701/A070101/7001326/
+4.24	4.24	3.06	いちかわ	Ichikawa	https://tabelog.com/tw/tokyo/A1316/A131602/13210722/
+4.23	4.16	4.00	銀座うかい亭	GINZA Ukai-tei	https://tabelog.com/tw/tokyo/A1301/A130101/13002367/
+4.23	4.23	4.23	和田金	Wadakin	https://tabelog.com/tw/mie/A2401/A240102/24000069/
+4.23	4.14	4.12	クイントカント	QUINTOCANTO	https://tabelog.com/tw/osaka/A2701/A270108/27073813/
+4.23	3.97	4.26	ル・マノアール・ダスティン	Le Manoir D'HASTINGS	https://tabelog.com/tw/tokyo/A1301/A130101/13000331/
+4.23	4.13	4.20	フィオッキ	Fiocchi	https://tabelog.com/tw/tokyo/A1318/A131814/13003427/
+4.23	4.23	3.08	焼肉 ジャンボ はなれ	yakinikujambo	https://tabelog.com/tw/tokyo/A1310/A131004/13160962/
+4.23	4.19	3.99	フランス料理 壺中天	Restaurant KOCHUTEN	https://tabelog.com/tw/aichi/A2301/A230104/23000380/
+4.23	4.23	3.12	鮨 よしたけ	Yoshitake	https://tabelog.com/tw/tokyo/A1301/A130103/13024076/
+4.23	4.23	4.09	リストランテ カッパス	Ristorante KAPPAS	https://tabelog.com/tw/tokyo/A1306/A130602/13001966/
+4.23	4.22	-	中国菜 火ノ鳥	Hinotori	https://tabelog.com/tw/osaka/A2701/A270102/27085978/
+4.23	4.17	3.93	なかむら	Nakamura	https://tabelog.com/tw/kyoto/A2601/A260202/26003637/
+4.23	4.23	-	道人	Doujin	https://tabelog.com/tw/kyoto/A2601/A260301/26030764/
+4.22	4.20	4.16	クッチーナ イタリアーナ ガッルーラ	Cucina Italiana Gallura	https://tabelog.com/tw/aichi/A2301/A230108/23000441/
+4.22	4.16	4.27	レストラン アラジン	Restaurant ALADDIN	https://tabelog.com/tw/tokyo/A1307/A130703/13004454/
+4.22	4.22	3.55	おにく 花柳	Oniku Karyu	https://tabelog.com/tw/tokyo/A1302/A130204/13028856/
+4.22	4.19	4.17	祇園 末友	Suetomo	https://tabelog.com/tw/kyoto/A2601/A260301/26009394/
+4.22	4.22	3.74	鮨 猪股	Inomata	https://tabelog.com/tw/saitama/A1102/A110201/11036797/
+4.22	4.17	4.20	千松しま	Chimatsushima	https://tabelog.com/tw/miyagi/A0404/A040404/4001636/
+4.22	4.26	3.96	リストランテ センソ	Ristorante Senso	https://tabelog.com/tw/tokyo/A1316/A131602/13193100/
+4.22	4.21	3.83	天神橋 青木	Aoki	https://tabelog.com/tw/osaka/A2701/A270103/27076702/
+4.22	4.26	3.12	銀座 きた福	Ginza Kitafuku	https://tabelog.com/tw/tokyo/A1301/A130101/13183900/
+4.22	4.22	3.06	こま田	Komada	https://tabelog.com/tw/mie/A2403/A240301/24012212/
+4.21	4.21	3.46	里葉亭	Ribatei	https://tabelog.com/tw/kanagawa/A1401/A140104/14001650/
+4.21	3.99	4.26	銀座 レカン	L'ecrin	https://tabelog.com/tw/tokyo/A1301/A130101/13002444/
+4.21	4.15	4.15	フロリレージュ	Florilège	https://tabelog.com/tw/tokyo/A1306/A130601/13093814/
+4.21	4.23	4.12	祇園 にしかわ	Nishikawa	https://tabelog.com/tw/kyoto/A2601/A260301/26007611/
+4.21	4.21	4.18	赤坂 きた福	Akasaka Kitafuku	https://tabelog.com/tw/tokyo/A1308/A130801/13149065/
+4.21	4.05	4.24	てんぷら　成生	Naruse	https://tabelog.com/tw/shizuoka/A2201/A220101/22015243/
+4.21	4.22	4.19	小判寿司	Kobanzushi	https://tabelog.com/tw/fukushima/A0703/A070304/7000810/
+4.21	4.22	4.14	ラ クレリエール	La Clairiere	https://tabelog.com/tw/tokyo/A1316/A131602/13194179/
+4.21	4.21	3.06	井雪	Iyuki	https://tabelog.com/tw/tokyo/A1301/A130101/13030881/
+4.21	4.19	3.48	Variante	Variante	https://tabelog.com/tw/kanagawa/A1405/A140506/14057973/
+4.21	4.17	3.99	瞬	Sumiyakiunagishun	https://tabelog.com/tw/shizuoka/A2201/A220101/22019273/
+4.20	4.09	4.34	シェ・イノ	Chez Inno	https://tabelog.com/tw/tokyo/A1302/A130202/13000510/
+4.20	4.20	-	海味	Umi	https://tabelog.com/tw/tokyo/A1306/A130603/13001179/
+4.20	4.20	3.04	鮨処 多田	Tada	https://tabelog.com/tw/osaka/A2701/A270101/27003367/
+4.20	4.16	4.11	料理屋 植むら	Uemura	https://tabelog.com/tw/hyogo/A2801/A280101/28006093/
+4.20	4.20	3.64	鮨匠 のむら	Sushisho Nomura	https://tabelog.com/tw/kagoshima/A4601/A460101/46000087/
+4.20	4.18	3.95	MAVO	MAVO	https://tabelog.com/tw/kyoto/A2601/A260301/26024162/
+4.20	4.20	4.05	L'Octave Hayato KOBAYASHI	L'Octave Hayato KOBAYASHI	https://tabelog.com/tw/tokyo/A1309/A130901/13186978/
+4.19	4.06	4.14	レストラン リューズ	RESTAURANT Ryuzu	https://tabelog.com/tw/tokyo/A1307/A130701/13122126/
+4.19	4.19	3.04	焼肉 ジャンボ 篠崎本店	Jambo Shinozakihonten	https://tabelog.com/tw/tokyo/A1312/A131205/13003075/
+4.19	4.19	3.20	鮨処 有馬	Arima	https://tabelog.com/tw/hokkaido/A0101/A010102/1000457/
+4.19	4.25	3.73	鮓 村瀬	Murase	https://tabelog.com/tw/tokyo/A1307/A130701/13174475/
+4.19	4.14	4.27	すし佐竹	Sushisatake	https://tabelog.com/tw/tokyo/A1313/A131301/13204429/
+4.19	4.18	3.64	ラ・ヴァガボンド	LA VAGABONDE	https://tabelog.com/tw/aichi/A2301/A230105/23040370/
+4.19	4.16	4.11	京懐石 吉泉	Kichisen	https://tabelog.com/tw/kyoto/A2601/A260302/26001047/
+4.19	4.18	-	ほうば	Houba	https://tabelog.com/tw/osaka/A2701/A270101/27086464/
+4.19	4.21	-	Crony	Crony	https://tabelog.com/tw/tokyo/A1307/A130701/13202768/
+4.19	3.89	4.44	柚木元	Yukimoto	https://tabelog.com/tw/nagano/A2006/A200603/20004238/
+4.18	4.12	4.08	一心鮨 光洋	Isshinzushi Koyo	https://tabelog.com/tw/miyazaki/A4501/A450101/45000157/
+4.18	4.19	4.08	すし処 宮葉	Miyaba	https://tabelog.com/tw/tokyo/A1314/A131401/13019499/
+4.18	4.18	-	鳥長	Toricho	https://tabelog.com/tw/tokyo/A1321/A132102/13058892/
+4.18	4.18	-	いし橋	Ishibashi	https://tabelog.com/tw/tokyo/A1311/A131101/13021036/
+4.18	4.18	-	sincere	Sincere	https://tabelog.com/tw/tokyo/A1309/A130901/13194253/
+4.18	4.18	3.07	祇園 大渡	Owatari	https://tabelog.com/tw/kyoto/A2601/A260301/26014312/
+4.18	3.97	4.14	柏屋 大阪千里山	KASHIWAYA Osaka Senriyama	https://tabelog.com/tw/osaka/A2706/A270602/27001141/
+4.18	3.99	4.18	鮨 行天	Gyoten	https://tabelog.com/tw/fukuoka/A4001/A400104/40032025/
+4.18	4.18	3.06	吉い	Yoshii	https://tabelog.com/tw/aichi/A2301/A230104/23044914/
+4.18	4.17	-	竹千代	Takechiyo	https://tabelog.com/tw/ishikawa/A1701/A170101/17000024/
+4.18	4.18	-	中華たかせ	CYUKA TAKASE	https://tabelog.com/tw/tokyo/A1301/A130103/13199649/
+4.17	4.24	3.68	焼肉 うしごろ 銀座店	Ushigoro Ginza	https://tabelog.com/tw/tokyo/A1301/A130101/13167325/
+4.17	4.18	3.98	うなぎ 魚政	Uomasa	https://tabelog.com/tw/tokyo/A1324/A132403/13035339/
+4.17	4.17	4.09	炭火焼肉 なかはら	Nakahara	https://tabelog.com/tw/tokyo/A1309/A130904/13175110/
+4.17	4.10	4.23	イル プレージョ	Il Pregio	https://tabelog.com/tw/tokyo/A1318/A131811/13147391/
+4.17	4.29	4.02	レストラン コバヤシ	Restaurant Kobayashi	https://tabelog.com/tw/tokyo/A1312/A131202/13002939/
+4.17	4.01	4.17	リョウリヤ ステファン パンテル	RYORIYA Stephan Pantel	https://tabelog.com/tw/kyoto/A2601/A260202/26023370/
+4.17	4.14	3.82	くろぎ	Kurogi	https://tabelog.com/tw/tokyo/A1314/A131401/13094789/
+4.17	4.20	3.98	Takumi	Takumi	https://tabelog.com/tw/tokyo/A1307/A130701/13204624/
+4.17	4.19	3.92	日本料理 TOBIUME	Nihonryouritobiume	https://tabelog.com/tw/fukuoka/A4004/A400404/40019957/
+4.16	3.97	4.14	うなぎ亭 友栄	Tomoei	https://tabelog.com/tw/kanagawa/A1410/A141001/14001626/
+4.16	4.14	4.04	ア・ニュ ルトゥルヴェ・ヴー	A nu retrouvez-vous	https://tabelog.com/tw/tokyo/A1307/A130703/13098768/
+4.16	4.10	4.08	横浜うかい亭	YOKOHAMA Ukai-tei	https://tabelog.com/tw/kanagawa/A1407/A140702/14000790/
+4.16	4.16	3.52	鮓 きずな	Kizuna	https://tabelog.com/tw/osaka/A2701/A270107/27041868/
+4.16	4.17	3.65	オステリア・オリエーラ	OSTERIA OLIERA	https://tabelog.com/tw/tokyo/A1304/A130401/13099830/
+4.16	4.16	-	高太郎	Kotaro	https://tabelog.com/tw/tokyo/A1303/A130301/13123997/
+4.16	4.17	3.96	日本料理 とくを	Tokuwo	https://tabelog.com/tw/kyoto/A2601/A260201/26004751/
+4.16	4.16	3.90	鮨 いまむら	Imamura	https://tabelog.com/tw/tokyo/A1316/A131602/13096905/
+4.16	4.17	4.18	岩さき	Iwasaki	https://tabelog.com/tw/kyoto/A2601/A260202/26005825/
+4.16	4.17	3.98	スリオラ	ZURRIOLA	https://tabelog.com/tw/tokyo/A1301/A130101/13125046/
+4.16	4.16	-	トムクリオーザ	TOM Curiosa	https://tabelog.com/tw/osaka/A2701/A270101/27075332/
+4.16	4.16	-	炭火割烹 いふき	Ifuki	https://tabelog.com/tw/kyoto/A2601/A260301/26017706/
+4.16	4.16	4.03	寿司つばさ	Sushitsubasa	https://tabelog.com/tw/fukuoka/A4004/A400401/40043591/
+4.15	4.11	4.03	イル テアトリーノ ダ サローネ	IL TEATRINO DA SALONE	https://tabelog.com/tw/tokyo/A1307/A130703/13110652/
+4.15	4.17	3.99	エール	Air	https://tabelog.com/tw/tokyo/A1301/A130101/13186624/
+4.15	3.96	4.19	ラ・ブランシュ	La Blanche	https://tabelog.com/tw/tokyo/A1303/A130301/13002111/
+4.15	4.20	3.95	山玄茶	Sangencha	https://tabelog.com/tw/kyoto/A2601/A260301/26005351/
+4.15	4.11	4.09	紀尾井町 三谷	Kioicho Mitani	https://tabelog.com/tw/tokyo/A1308/A130801/13198197/
+4.15	3.97	3.97	京趣味 菱岩	Kyoshumi Hisaiwa	https://tabelog.com/tw/kyoto/A2601/A260301/26000950/
+4.15	4.14	3.77	行楽庵	Korakuan	https://tabelog.com/tw/shiga/A2501/A250101/25001485/
+4.15	4.15	3.28	竹ざき	Takezaki	https://tabelog.com/tw/kyoto/A2601/A260202/26025714/
+4.14	4.12	4.02	新ばし しみづ	Shimizu	https://tabelog.com/tw/tokyo/A1301/A130103/13002892/
+4.14	3.95	4.12	田代	Tashiro	https://tabelog.com/tw/aichi/A2303/A230302/23003045/
+4.14	4.14	-	アッピア 本店	Appia	https://tabelog.com/tw/tokyo/A1307/A130703/13001593/
+4.14	4.26	3.92	鮨人	Sushijin	https://tabelog.com/tw/toyama/A1601/A160101/16001163/
+4.14	4.19	4.03	TIRPSE	TIRPSE	https://tabelog.com/tw/tokyo/A1316/A131602/13160347/
+4.14	3.99	4.05	中勢以 内店	Nakasei Uchimise	https://tabelog.com/tw/tokyo/A1323/A132302/13152057/
+4.14	3.66	4.14	小松 弥助	Komatsu Yasuke	https://tabelog.com/tw/ishikawa/A1701/A170101/17010524/
+4.14	4.13	4.22	妙見石原荘	Miukenishiharasou	https://tabelog.com/tw/kagoshima/A4603/A460301/46001299/
+4.14	4.12	4.14	魚菜料理 縄屋	Nawaya	https://tabelog.com/tw/kyoto/A2609/A260903/26015836/
+4.14	4.14	-	潟潟ヤ	Gatagataya	https://tabelog.com/tw/kanagawa/A1405/A140505/14012400/
+4.14	4.14	3.04	焼肉ひび屋	Hibiya	https://tabelog.com/tw/hokkaido/A0105/A010502/1012624/
+4.13	4.08	4.12	成蔵	Narikura	https://tabelog.com/tw/tokyo/A1305/A130503/13114695/
+4.13	3.16	4.13	手造りうどん 楽々	Rakuraku	https://tabelog.com/tw/osaka/A2707/A270704/27011240/
+4.13	4.07	4.03	ル・ブルギニオン	LE BOURGUIGNON	https://tabelog.com/tw/tokyo/A1307/A130701/13005328/
+4.13	4.09	4.02	カイノヤ	CAINOYA	https://tabelog.com/tw/kagoshima/A4601/A460101/46000070/
+4.13	4.06	3.89	sio	shio	https://tabelog.com/tw/tokyo/A1318/A131811/13150395/
+4.13	4.13	3.45	喰善 あべ	Shokuzen Abe	https://tabelog.com/tw/tokyo/A1301/A130101/13162190/
+4.13	3.95	4.14	銀座 ひらやま	Hirayama	https://tabelog.com/tw/tokyo/A1313/A131301/13151917/
+4.13	4.13	-	ウェスタ	Vesta	https://tabelog.com/tw/tokyo/A1302/A130202/13185496/
+4.13	4.09	3.98	ラ カンロ	La Kanro	https://tabelog.com/tw/osaka/A2701/A270103/27076253/
+4.13	4.12	3.65	まる富	Marutomi	https://tabelog.com/tw/tokyo/A1309/A130903/13158579/
+4.13	4.13	-	なか條	nakajyo	https://tabelog.com/tw/kanagawa/A1401/A140104/14065294/
+4.12	4.12	3.10	炭火焼 ゆうじ	sumibiyakiyuuji	https://tabelog.com/tw/tokyo/A1303/A130301/13001794/
+4.12	4.14	4.08	カーザ ヴィニタリア	Casa VINITALIA	https://tabelog.com/tw/tokyo/A1307/A130702/13010456/
+4.12	4.11	3.89	リストランテ ASO	RISTORANTE ASO	https://tabelog.com/tw/tokyo/A1303/A130303/13003356/
+4.12	4.09	4.09	ラ・ボンヌターブル	LA BONNE TABLE	https://tabelog.com/tw/tokyo/A1302/A130202/13166325/
+4.12	4.16	3.89	赤坂 菊乃井	Akasaka Kikunoi	https://tabelog.com/tw/tokyo/A1308/A130801/13002514/
+4.12	4.11	4.07	アロマフレスカ	Ristorante Aroma-fresca	https://tabelog.com/tw/tokyo/A1301/A130101/13129298/
+4.12	4.01	4.14	レストラン・モリエール	Restaurant Moliere	https://tabelog.com/tw/hokkaido/A0101/A010105/1000022/
+4.12	4.12	-	酒盃	Syuhai	https://tabelog.com/tw/akita/A0501/A050101/5000004/
+4.12	4.08	4.00	すし家 一柳	Ichiyanagi	https://tabelog.com/tw/tokyo/A1301/A130101/13156961/
+4.12	4.07	3.96	土家	Tsuchiya	https://tabelog.com/tw/tokyo/A1328/A132806/13061606/
+4.12	4.12	-	清壽	Seiju	https://tabelog.com/tw/tokyo/A1313/A131301/13058904/
+4.12	4.12	3.09	新ばし 笹田	Sasada	https://tabelog.com/tw/tokyo/A1301/A130103/13020781/
+4.12	4.10	3.56	鮨おばな	Sushiobana	https://tabelog.com/tw/gunma/A1002/A100204/10002097/
+4.12	3.99	4.14	八寸	Hassun	https://tabelog.com/tw/kyoto/A2601/A260301/26002259/
+4.12	4.12	3.95	御料理 光安	Mitsuyasu	https://tabelog.com/tw/kyoto/A2601/A260501/26022648/
+4.12	4.12	-	定谷	SADAYA	https://tabelog.com/tw/tokyo/A1311/A131104/13031814/
+4.12	4.12	3.58	なる屋	Naruya	https://tabelog.com/tw/kyoto/A2601/A260201/26024247/
+4.11	4.10	3.53	焼肉 鶯谷園	yakinikuuguisudanien	https://tabelog.com/tw/tokyo/A1311/A131104/13012243/
+4.11	4.10	3.96	中国飯店 富麗華	FUREIKA	https://tabelog.com/tw/tokyo/A1307/A130702/13004967/
+4.11	4.11	3.00	ICARO miyamoto	ICARO miyamoto	https://tabelog.com/tw/tokyo/A1317/A131701/13050216/
+4.11	4.16	3.58	焼肉 銀座コバウ	GINZA COBAU	https://tabelog.com/tw/tokyo/A1301/A130101/13005008/
+4.11	3.81	4.10	ラ・トゥーエル	La Tourelle	https://tabelog.com/tw/tokyo/A1309/A130905/13000457/
+4.11	4.11	-	かしわや 闘鶏	KASHIWAYA SHAMO	https://tabelog.com/tw/osaka/A2701/A270108/27002614/
+4.11	4.17	3.91	室町 和久傳	Muromachi Wakuden	https://tabelog.com/tw/kyoto/A2601/A260202/26000621/
+4.11	4.06	4.07	アルシミスト	Les Alchimistes	https://tabelog.com/tw/tokyo/A1316/A131602/13128454/
+4.11	3.98	4.01	Spice&Dining KALA	Spice&Dining KALA	https://tabelog.com/tw/fukuoka/A4006/A400603/40035804/
+4.11	4.07	4.01	リバーリトリート 雅樂倶	Ribaritoritogaraku	https://tabelog.com/tw/toyama/A1601/A160101/16000772/
+4.11	4.12	3.73	石葉	Sekiyou	https://tabelog.com/tw/kanagawa/A1410/A141002/14003627/
+4.11	4.13	3.91	エリタージュ	Héritage	https://tabelog.com/tw/aichi/A2301/A230108/23053940/
+4.11	4.11	3.06	二条城ふる田	Furuta	https://tabelog.com/tw/kyoto/A2601/A260203/26027316/
+4.10	4.05	4.11	尾花	Obana	https://tabelog.com/tw/tokyo/A1324/A132401/13003509/
+4.10	3.97	4.13	石ばし	Ishibashi	https://tabelog.com/tw/tokyo/A1309/A130905/13003531/
+4.10	3.99	4.10	乙女寿司	Otomezushi	https://tabelog.com/tw/ishikawa/A1701/A170101/17000107/
+4.10	3.51	4.10	薮蕎麦 宮本	Miyamoto	https://tabelog.com/tw/shizuoka/A2203/A220302/22000036/
+4.10	4.09	3.75	銀座 小十	Kojyu	https://tabelog.com/tw/tokyo/A1301/A130101/13005683/
+4.10	4.15	3.92	徳 うち山	tokuuchiyama	https://tabelog.com/tw/tokyo/A1301/A130101/13129656/
+4.10	4.06	4.04	ひろ作	Hirosaku	https://tabelog.com/tw/tokyo/A1301/A130103/13015266/
+4.10	4.10	3.06	焼鳥　おみ乃	Omino	https://tabelog.com/tw/tokyo/A1312/A131203/13206654/
+4.10	4.10	-	鳥さわ	Torisawa	https://tabelog.com/tw/tokyo/A1312/A131202/13135959/
+4.10	4.10	-	鮨 安吉	Yasukichi	https://tabelog.com/tw/fukuoka/A4001/A400101/40001706/
+4.10	3.70	4.03	ラ・メール ザ クラシック	La Mer the Classic	https://tabelog.com/tw/mie/A2403/A240303/24000053/
+4.10	3.94	4.19	天ぷら 松	Matsu	https://tabelog.com/tw/kyoto/A2601/A260403/26001461/
+4.10	4.09	-	ダム・ジャンヌ	Dame-Jeanne	https://tabelog.com/tw/tokyo/A1303/A130301/13053893/
+4.10	4.10	3.53	鮨 はしもと	Hashimoto	https://tabelog.com/tw/tokyo/A1313/A131301/13176638/
+4.10	4.07	3.95	モトイ	MOTOÏ	https://tabelog.com/tw/kyoto/A2601/A260202/26019431/
+4.10	4.10	3.54	京 上賀茂 御料理秋山	Akiyama	https://tabelog.com/tw/kyoto/A2601/A260503/26002511/
+4.10	3.59	4.21	ENEKO Tokyo	enekotoukyou	https://tabelog.com/tw/tokyo/A1307/A130701/13212953/
+4.10	4.11	4.18	鮨舳	Sushitomo	https://tabelog.com/tw/kagawa/A3701/A370101/37000358/
+4.10	4.10	-	不動前 すし 岩澤	Fudoumaesushiiwasawa	https://tabelog.com/tw/tokyo/A1317/A131710/13193460/
+4.10	3.95	4.16	鮨 十兵衛	Jubei	https://tabelog.com/tw/fukui/A1801/A180101/18001608/
+4.10	4.10	3.10	中華 うずまき	Uzumaki	https://tabelog.com/tw/tokyo/A1308/A130801/13053284/
+4.10	4.09	3.77	アルゴリズム	L'algorithme	https://tabelog.com/tw/tokyo/A1316/A131602/13213150/
+4.10	4.10	-	ぎをん 遠藤	Endo	https://tabelog.com/tw/kyoto/A2601/A260301/26019418/
+4.10	4.09	3.63	FURUYA　augastronome	Furuyaogasutoronomu	https://tabelog.com/tw/tokyo/A1308/A130801/13188159/
+4.10	4.09	3.64	こにし家	Konishiya	https://tabelog.com/tw/hyogo/A2807/A280703/28015514/
+4.09	3.93	4.03	麺屋一燈	Itto	https://tabelog.com/tw/tokyo/A1312/A131204/13111737/
+4.09	3.58	4.10	釜あげうどん 長田 in 香の香	Nagata in Kanoka	https://tabelog.com/tw/kagawa/A3703/A370302/37000015/
+4.09	4.06	4.08	とん太	Tonta	https://tabelog.com/tw/tokyo/A1305/A130503/13003984/
+4.09	4.08	3.97	銀座 鮨 かねさか 本店	Ginza Sushi KANESAKA	https://tabelog.com/tw/tokyo/A1301/A130103/13005003/
+4.09	3.96	4.08	レストラン タテル ヨシノ 銀座	Restaurant tateru yoshino Ginza	https://tabelog.com/tw/tokyo/A1301/A130101/13055145/
+4.09	4.18	3.93	開化亭	Kaikatei	https://tabelog.com/tw/gifu/A2101/A210101/21000011/
+4.09	4.09	-	島之内 一陽	Ichiyo	https://tabelog.com/tw/osaka/A2701/A270202/27000387/
+4.09	4.25	3.76	シュマン	Chemins	https://tabelog.com/tw/tokyo/A1308/A130801/13001336/
+4.09	4.09	-	串かつ あーぼん	Abon	https://tabelog.com/tw/hyogo/A2803/A280302/28000052/
+4.09	4.17	3.58	天ぷら 元吉	Motoyoshi	https://tabelog.com/tw/tokyo/A1306/A130603/13035758/
+4.09	4.01	4.05	日本料理 幸庵	Kouan	https://tabelog.com/tw/kanagawa/A1404/A140404/14004298/
+4.09	3.75	4.12	ロドラント ミノルナキジン	L'Odorante par Minoru Nakijin	https://tabelog.com/tw/tokyo/A1301/A130101/13054492/
+4.09	4.09	3.05	器楽亭	Kirakutei	https://tabelog.com/tw/tokyo/A1318/A131806/13050819/
+4.09	4.09	-	ふぐ 牧野	Makino	https://tabelog.com/tw/tokyo/A1311/A131101/13003708/
+4.09	4.14	3.90	ブーケ・ド・フランス	Bouquet de France	https://tabelog.com/tw/tokyo/A1307/A130701/13002082/
+4.09	4.09	3.61	哥利歐	GORIO	https://tabelog.com/tw/tokyo/A1301/A130103/13002356/
+4.09	3.98	4.07	シャントレル	Les Chanterelles	https://tabelog.com/tw/tokyo/A1318/A131810/13128296/
+4.09	4.09	3.80	ほかけ	Hokake	https://tabelog.com/tw/tokyo/A1301/A130101/13002472/
+4.09	4.09	3.06	生ホルモン処 おさむちゃん。	Namahorumondokoroosamuchan	https://tabelog.com/tw/osaka/A2705/A270501/27052134/
+4.09	4.09	-	ALLIE	ALLIE	https://tabelog.com/tw/tokyo/A1307/A130702/13192025/
+4.09	4.13	-	トロワフレーシュ	TROIS FLECHES	https://tabelog.com/tw/tokyo/A1301/A130103/13130978/
+4.09	4.03	4.14	御料理 樋渡	Hiwatashi	https://tabelog.com/tw/kyoto/A2601/A260202/26023402/
+4.09	3.54	4.32	味道広路	Ajidokoro	https://tabelog.com/tw/hokkaido/A0107/A010704/1016052/
+4.09	4.09	-	鮨 大門	Daimon	https://tabelog.com/tw/toyama/A1602/A160202/16006504/
+4.09	4.09	-	しんせん 割烹 佐乃家	shinsenkappousanoya	https://tabelog.com/tw/tokyo/A1303/A130301/13203305/
+4.08	3.55	4.08	スイーツガーデン ユウジアジキ	SWEETS garden YUJI AJIKI	https://tabelog.com/tw/kanagawa/A1401/A140203/14035784/
+4.08	4.03	4.04	リストランテ ラ・バリック トウキョウ	Ristorante La Barrique Tokyo	https://tabelog.com/tw/tokyo/A1309/A130905/13044652/
+4.08	3.72	4.29	NARISAWA	NARISAWA	https://tabelog.com/tw/tokyo/A1306/A130603/13005423/
+4.08	4.06	3.96	みかわ 是山居	Mikawa Zezankyo	https://tabelog.com/tw/tokyo/A1313/A131303/13090866/
+4.08	4.12	4.14	アンティカ オステリア バーチョ	BACIO	https://tabelog.com/tw/aichi/A2301/A230106/23030549/
+4.08	4.05	4.13	江戸前鮓 すし通	Sushi Tsu	https://tabelog.com/tw/tokyo/A1307/A130701/13061640/
+4.08	4.08	-	焼鳥 市松	Ichimatsu	https://tabelog.com/tw/osaka/A2701/A270101/27013209/
+4.08	4.08	3.80	キメラ	CHIMERA	https://tabelog.com/tw/kyoto/A2601/A260301/26005284/
+4.08	3.89	4.12	スゥリル	SouRiRe	https://tabelog.com/tw/tokyo/A1317/A131701/13125091/
+4.08	4.08	3.80	コントワール ミサゴ	COMPTOIR MISSAGO	https://tabelog.com/tw/tokyo/A1307/A130703/13114321/
+4.08	4.02	4.12	ル スプートニク	Le sputnik	https://tabelog.com/tw/tokyo/A1307/A130701/13184105/
+4.08	4.08	3.06	和食 こんどう	Kondo	https://tabelog.com/tw/tokyo/A1309/A130903/13150477/
+4.08	4.10	3.79	霞庭 まつばら	Kasumitei Matsubara	https://tabelog.com/tw/tokyo/A1307/A130701/13118905/
+4.08	3.80	4.29	すし家	Sushiya	https://tabelog.com/tw/tokyo/A1301/A130101/13147846/
+4.08	4.08	-	私厨房 勇	Yung	https://tabelog.com/tw/tokyo/A1316/A131602/13168401/
+4.08	4.08	3.88	エニェ	énye	https://tabelog.com/tw/osaka/A2701/A270106/27086016/
+4.08	4.08	-	ボッテガ	BOTTEGA	https://tabelog.com/tw/tokyo/A1307/A130703/13204358/
+4.08	4.04	4.01	サンプリシテ	Sampurishite	https://tabelog.com/tw/tokyo/A1303/A130303/13216899/
+4.08	3.90	4.21	祇園 にし	Nishi	https://tabelog.com/tw/kyoto/A2601/A260301/26027852/
+4.08	4.08	-	グルマンディーズ	Gourmandise	https://tabelog.com/tw/tokyo/A1307/A130701/13190448/
+4.08	4.03	3.96	井本	Imoto	https://tabelog.com/tw/fukuoka/A4001/A400104/40040809/
+4.08	4.20	3.47	寺沢	Terasawa	https://tabelog.com/tw/iwate/A0302/A030202/3005625/
+4.08	4.07	3.57	馳走 とし藤	Chiso Toshifuji	https://tabelog.com/tw/shiga/A2502/A250201/25007870/
+4.07	3.95	3.98	とんかつ マンジェ	Manger	https://tabelog.com/tw/osaka/A2707/A270705/27013624/
+4.07	3.92	4.03	玉笑	Tamawarai	https://tabelog.com/tw/tokyo/A1306/A130601/13129390/
+4.07	4.04	4.12	センス	SENSE	https://tabelog.com/tw/tokyo/A1302/A130202/13020361/
+4.07	4.07	3.12	生粋	Namaiki	https://tabelog.com/tw/tokyo/A1311/A131101/13165294/
+4.07	3.88	4.01	吟八亭 やざ和	Gimpachitei Yazawa	https://tabelog.com/tw/tokyo/A1324/A132403/13003083/
+4.07	3.93	3.98	鮨 志の助	Shinosuke	https://tabelog.com/tw/ishikawa/A1701/A170101/17000173/
+4.07	4.07	3.82	ロマンティコ	Romantico	https://tabelog.com/tw/tokyo/A1316/A131602/13021521/
+4.07	4.07	3.87	鮨 おさむ	Osamu	https://tabelog.com/tw/fukuoka/A4001/A400202/40000001/
+4.07	4.05	3.96	レストラン ラ・フロレゾン・ドゥ・タケウチ	La Floraison de TAKEUCHI	https://tabelog.com/tw/aichi/A2301/A230102/23048448/
+4.07	4.07	3.53	東京肉しゃぶ家	Toukyounikushabuya	https://tabelog.com/tw/tokyo/A1304/A130401/13196268/
+4.07	4.09	3.58	Lien	Lien	https://tabelog.com/tw/tokyo/A1317/A131705/13176808/
+4.07	4.09	3.91	鮨 竜介	Ryusuke	https://tabelog.com/tw/tokyo/A1301/A130101/13185503/
+4.07	3.97	3.98	滋味 康月	Kogetsu	https://tabelog.com/tw/shiga/A2502/A250201/25004939/
+4.07	4.06	3.82	グラン シャン	Grand champs	https://tabelog.com/tw/osaka/A2701/A270101/27066177/
+4.07	4.06	3.70	プリンチピオ	Principio	https://tabelog.com/tw/tokyo/A1307/A130702/13144481/
+4.07	4.07	-	まさる	Masaru	https://tabelog.com/tw/osaka/A2701/A270203/27000995/
+4.07	4.02	4.04	Convivio	Convivio	https://tabelog.com/tw/tokyo/A1309/A130901/13149817/
+4.07	4.07	3.15	京天神 野口	Kyotenjin Noguchi	https://tabelog.com/tw/kyoto/A2601/A260501/26018304/
+4.07	4.06	3.53	尾乃道	Onomichi	https://tabelog.com/tw/aichi/A2301/A230106/23000565/
+4.07	4.07	-	高松	Takamatsu	https://tabelog.com/tw/kyoto/A2601/A260201/26024689/
+4.07	4.07	-	エルバ ダ ナカヒガシ	Erba da nakahigashi	https://tabelog.com/tw/tokyo/A1307/A130703/13191105/
+4.06	4.06	4.00	トマト	Tomato	https://tabelog.com/tw/tokyo/A1319/A131906/13001113/
+4.06	4.06	3.52	カッチャル バッチャル	Katcharu Batcharu	https://tabelog.com/tw/tokyo/A1323/A132302/13120294/
+4.06	3.61	4.06	パティスリー リョーコ	PÂTISSERIE RYOCO	https://tabelog.com/tw/tokyo/A1316/A131603/13137010/
+4.06	4.05	3.93	佐賀牛 季楽 銀座 	Kira Ginza	https://tabelog.com/tw/tokyo/A1301/A130101/13020504/
+4.06	4.04	3.66	サラマンジェ ド イザシ ワキサカ	SALLE A MANGER de Hisashi WAKISAKA	https://tabelog.com/tw/tokyo/A1301/A130101/13151302/
+4.06	4.06	-	産直屋 たか	Sanchokuya Taka	https://tabelog.com/tw/tokyo/A1303/A130301/13008327/
+4.06	4.01	3.55	セララバアド	Celaravird 	https://tabelog.com/tw/tokyo/A1318/A131811/13176914/
+4.06	3.64	4.10	ルメルシマン オカモト	Remerciements OKAMOTO	https://tabelog.com/tw/tokyo/A1306/A130602/13145384/
+4.06	3.98	4.07	ナベノ-イズム	Nabeno-Ism	https://tabelog.com/tw/tokyo/A1311/A131102/13194700/
+4.06	4.04	4.00	ボナ・フェスタ	BONA FESTA	https://tabelog.com/tw/tokyo/A1311/A131102/13016868/
+4.06	3.93	4.10	プレヴナンス	Prevenance	https://tabelog.com/tw/tokyo/A1306/A130603/13162493/
+4.06	4.10	3.05	食堂 おがわ	Ogawa	https://tabelog.com/tw/kyoto/A2601/A260201/26013892/
+4.06	4.06	3.57	ラパルタメント ディ ナオキ	L'appartamento di NAOKI	https://tabelog.com/tw/tokyo/A1307/A130702/13120467/
+4.06	4.06	-	osteria LIU	Osteria LIU	https://tabelog.com/tw/aichi/A2301/A230106/23009279/
+4.06	4.06	3.05	串揚げはやし	Hayashi	https://tabelog.com/tw/tokyo/A1309/A130905/13129802/
+4.06	3.97	3.86	オルト	ORTO	https://tabelog.com/tw/kyoto/A2601/A260202/26006883/
+4.06	4.08	3.92	オルグイユ	L'orgueil	https://tabelog.com/tw/tokyo/A1306/A130603/13192399/
+4.06	4.05	3.67	マスドラヴァンド	Mas de Lavande	https://tabelog.com/tw/aichi/A2301/A230104/23055994/
+4.06	4.06	3.06	レンゲ	Renge	https://tabelog.com/tw/tokyo/A1301/A130101/13183555/
+4.06	4.06	-	鮓 ふじなが	Sushifujinaga	https://tabelog.com/tw/tokyo/A1307/A130702/13209440/
+4.06	4.00	4.02	是しん	Zeshin	https://tabelog.com/tw/osaka/A2701/A270101/27077650/
+4.06	4.01	4.00	秋田 てんぷら みかわ	Akitatempuramikawa	https://tabelog.com/tw/akita/A0501/A050101/5007142/
+4.06	4.06	3.58	B	B	https://tabelog.com/tw/tokyo/A1317/A131703/13217869/
+4.05	3.56	4.05	中華蕎麦 とみ田	Tomita	https://tabelog.com/tw/chiba/A1203/A120302/12000422/
+4.05	3.82	4.05	Homemade Ramen 麦苗	Homemade Ramen Muginae	https://tabelog.com/tw/tokyo/A1315/A131502/13194812/
+4.05	4.05	3.08	焼肉 ジャンボ 本郷店	Jambo Hongo	https://tabelog.com/tw/tokyo/A1310/A131004/13110601/
+4.05	4.07	3.95	エディション・コウジ シモムラ	EdiTion Koji Shimomura	https://tabelog.com/tw/tokyo/A1307/A130701/13042074/
+4.05	4.05	4.00	レストラン マノワ	Restaurant MANOIR	https://tabelog.com/tw/tokyo/A1303/A130302/13133477/
+4.05	4.07	3.88	ライラ	Lyla	https://tabelog.com/tw/tokyo/A1308/A130801/13156381/
+4.05	4.05	-	久遠の空	Kuonnosora	https://tabelog.com/tw/tokyo/A1319/A131902/13048661/
+4.05	3.94	4.02	オテル・ド・ヨシノ	Hotel de yoshino	https://tabelog.com/tw/wakayama/A3001/A300101/30000022/
+4.05	4.03	3.93	アニエルドール	Agnel d'or	https://tabelog.com/tw/osaka/A2701/A270105/27074473/
+4.05	3.74	4.05	マノワール・ディノ	Manoir d'Inno	https://tabelog.com/tw/tokyo/A1306/A130602/13001278/
+4.05	3.95	4.09	味 ふくしま	Aji Fukushima	https://tabelog.com/tw/kyoto/A2601/A260301/26022527/
+4.05	3.50	4.04	蕎麦 ふじおか	Fujioka	https://tabelog.com/tw/nagano/A2001/A200101/20000415/
+4.05	4.05	-	加藤牛肉店 銀座	Kato Gyunikuten Ginza	https://tabelog.com/tw/tokyo/A1301/A130101/13076544/
+4.05	4.05	3.65	cucina Wada	Cucina Wada	https://tabelog.com/tw/aichi/A2301/A230102/23038494/
+4.05	4.03	3.84	魚正	Uosho	https://tabelog.com/tw/okayama/A3301/A330101/33000111/
+4.05	4.05	3.06	ミモザ	Mimosa	https://tabelog.com/tw/tokyo/A1306/A130602/13197047/
+4.05	4.05	-	焼鳥 かさ原	Yakitorikasahara	https://tabelog.com/tw/hyogo/A2801/A280101/28045767/
+4.05	3.90	3.96	料亭 やまさ旅館	Yamasa Ryokan	https://tabelog.com/tw/oita/A4404/A440402/44001011/
+4.05	4.05	-	SECRETO	SECRETO	https://tabelog.com/tw/tokyo/A1309/A130905/13213559/
+4.05	4.05	3.57	f	F	https://tabelog.com/tw/akita/A0501/A050101/5007093/
+4.04	4.04	3.53	とり喜	Toriki	https://tabelog.com/tw/tokyo/A1312/A131201/13026017/
+4.04	3.82	4.04	らーめん専門 和海	ra-mensemmonnagomi	https://tabelog.com/tw/hyogo/A2803/A280304/28031755/
+4.04	3.91	4.11	オマージュ	HOMMAGE	https://tabelog.com/tw/tokyo/A1311/A131102/13008700/
+4.04	4.04	3.20	Ata	Ata	https://tabelog.com/tw/tokyo/A1303/A130303/13150975/
+4.04	3.98	3.98	くいしんぼー山中	Kuishinobo Yamanaka	https://tabelog.com/tw/kyoto/A2601/A260401/26002126/
+4.04	3.93	3.98	鈴木	Suzuki	https://tabelog.com/tw/tokyo/A1326/A132601/13005981/
+4.04	4.04	3.09	京 静華	Kyo Seika	https://tabelog.com/tw/kyoto/A2601/A260301/26006497/
+4.04	4.04	-	鮨竹	Sushi Take	https://tabelog.com/tw/tokyo/A1301/A130101/13169506/
+4.04	4.04	3.96	麤皮	ARAGAWA	https://tabelog.com/tw/tokyo/A1314/A131401/13002897/
+4.04	4.04	-	かみその	Kamisono	https://tabelog.com/tw/aichi/A2301/A230102/23000092/
+4.04	4.04	3.51	プリズマ	PRISMA	https://tabelog.com/tw/tokyo/A1306/A130602/13123890/
+4.04	4.04	-	鶏一途	Toriichizu	https://tabelog.com/tw/hyogo/A2801/A280106/28008517/
+4.04	4.04	3.18	アカーチェ	Le Acacie	https://tabelog.com/tw/tokyo/A1306/A130603/13001944/
+4.03	4.02	3.92	てんぷら 近藤	Kondo	https://tabelog.com/tw/tokyo/A1301/A130101/13004993/
+4.03	4.03	3.82	東京チャイニーズ 一凛	Tokyo Chinese Ichirin	https://tabelog.com/tw/tokyo/A1313/A131301/13153417/
+4.03	4.18	3.98	寿し処 寿々	Suzu	https://tabelog.com/tw/tokyo/A1308/A130802/13024464/
+4.03	3.94	4.17	クラフタル	CRAFTALE	https://tabelog.com/tw/tokyo/A1317/A131701/13186719/
+4.03	4.07	3.97	アビス	Abysse	https://tabelog.com/tw/tokyo/A1306/A130603/13179432/
+4.03	4.07	3.70	ドンブラボー	Don Bravo	https://tabelog.com/tw/tokyo/A1326/A132601/13144681/
+4.03	4.03	-	むろまち 加地	Muromachi Kaji	https://tabelog.com/tw/kyoto/A2601/A260201/26018600/
+4.03	4.00	4.00	レクテ	Recte	https://tabelog.com/tw/tokyo/A1303/A130303/13036041/
+4.03	4.03	3.09	寿司 いずみ	Izumi	https://tabelog.com/tw/tokyo/A1317/A131702/13018559/
+4.03	3.68	3.83	青草窠	Seisoka	https://tabelog.com/tw/tokyo/A1307/A130703/13090635/
+4.03	3.76	4.08	ごだん 宮ざわ	Godan Miyazawa	https://tabelog.com/tw/kyoto/A2601/A260201/26024040/
+4.03	4.03	-	味あら井	Aji Arai	https://tabelog.com/tw/oita/A4404/A440401/44006115/
+4.03	4.02	3.06	味ひろ	Ajihiro	https://tabelog.com/tw/tokyo/A1313/A131301/13200027/
+4.02	3.88	3.99	丸一	Maruichi	https://tabelog.com/tw/tokyo/A1315/A131503/13017765/
+4.02	4.02	3.04	焼肉 ジャンボ 白金	Jumbo Shirokane	https://tabelog.com/tw/tokyo/A1316/A131602/13026377/
+4.02	3.36	4.02	谷川米穀店	Tanikawa Beikokuten	https://tabelog.com/tw/kagawa/A3703/A370302/37000011/
+4.02	4.09	3.80	トゥールダルジャン 東京	TOUR D'ARGENT	https://tabelog.com/tw/tokyo/A1308/A130803/13000288/
+4.02	3.99	3.62	麤皮	ARAGAWA	https://tabelog.com/tw/hyogo/A2801/A280101/28000962/
+4.02	4.02	-	あま木	Amaki	https://tabelog.com/tw/aichi/A2301/A230103/23057712/
+4.02	4.02	3.08	天ぷら 京星	Kyoboshi	https://tabelog.com/tw/kyoto/A2601/A260301/26006057/
+4.02	3.96	4.18	祇園 又吉	Matayoshi	https://tabelog.com/tw/kyoto/A2601/A260301/26006471/
+4.02	3.68	3.77	山地陽介	Yosuke YAMAJI	https://tabelog.com/tw/kyoto/A2601/A260301/26025794/
+4.02	4.02	-	得仙	Tokusen	https://tabelog.com/tw/aichi/A2301/A230101/23002852/
+4.02	3.92	4.01	佛蘭西料理 名古屋	CUISINE FRANCAIS NAGOYA	https://tabelog.com/tw/kanagawa/A1404/A140404/14057938/
+4.02	3.94	3.95	山の茶屋	Yamanochaya	https://tabelog.com/tw/tokyo/A1308/A130802/13002739/
+4.02	4.05	3.88	レヴォル	L'Evol	https://tabelog.com/tw/tokyo/A1306/A130601/13219129/
+4.02	4.02	-	蒼穹	Soukyuu	https://tabelog.com/tw/tokyo/A1309/A130905/13207278/
+4.02	3.54	4.01	昔のきりたんぽや	Mukashinokiritampoya	https://tabelog.com/tw/akita/A0502/A050201/5000308/
+4.02	4.00	3.78	割烹 互閃	Kappougosen	https://tabelog.com/tw/tokyo/A1308/A130801/13205840/
+4.02	4.02	-	たてもと	Tatemoto	https://tabelog.com/tw/osaka/A2701/A270406/27033059/
+4.01	3.60	4.01	アテスウェイ	à tes souhaits!	https://tabelog.com/tw/tokyo/A1320/A132001/13005853/
+4.01	3.87	4.01	うな富士	Unafuji	https://tabelog.com/tw/aichi/A2301/A230105/23000105/
+4.01	3.98	3.92	表参道うかい亭	OMOTESANDO Ukai-tei	https://tabelog.com/tw/tokyo/A1306/A130601/13044361/
+4.01	3.83	4.00	和 dining 清乃	Seino	https://tabelog.com/tw/wakayama/A3002/A300202/30000653/
+4.01	3.98	3.91	レストラン サンパウ	RESTAURANT SANT PAU	https://tabelog.com/tw/tokyo/A1302/A130202/13002230/
+4.01	4.01	3.06	時分時	Jibundoki	https://tabelog.com/tw/osaka/A2701/A270106/27001808/
+4.01	3.98	3.97	川蝉	Kawasemi	https://tabelog.com/tw/tochigi/A0901/A090101/9000024/
+4.01	3.90	4.03	CROWN	CROWN	https://tabelog.com/tw/tokyo/A1302/A130201/13000007/
+4.01	4.01	3.96	ポンテ デル ピアット	PONTE DEL PIATTO	https://tabelog.com/tw/tokyo/A1307/A130703/13166111/
+4.01	4.01	3.08	鮨 なかむら	Nakamura	https://tabelog.com/tw/tokyo/A1307/A130701/13003314/
+4.01	3.80	3.84	カントニーズ 燕 ケン タカセ	Cantonese en KEN TAKASE	https://tabelog.com/tw/tokyo/A1302/A130201/13147494/
+4.01	4.02	3.73	西洋料理 島	Shima	https://tabelog.com/tw/tokyo/A1302/A130202/13000495/
+4.01	3.99	3.71	ete	été	https://tabelog.com/tw/kanagawa/A1404/A140402/14039956/
+4.01	4.01	-	ベック	Bec	https://tabelog.com/tw/hyogo/A2801/A280102/28033177/
+4.01	4.01	3.97	グリグリ	Gri-gri	https://tabelog.com/tw/tokyo/A1307/A130702/13149114/
+4.01	4.03	3.87	ラ・ファソン 古賀	La facon koga	https://tabelog.com/tw/tokyo/A1318/A131811/13155778/
+4.01	4.01	-	一献	Ikkon	https://tabelog.com/tw/ishikawa/A1701/A170101/17006316/
+4.01	4.01	-	蓮香	Renshan	https://tabelog.com/tw/tokyo/A1316/A131602/13190771/
+4.01	3.97	3.66	祇園 丸山	Gion Maruyama	https://tabelog.com/tw/kyoto/A2601/A260301/26001968/
+4.01	3.64	3.98	ラ・ビオグラフィ	Rabiogurafi	https://tabelog.com/tw/kyoto/A2601/A260202/26018589/
+4.01	4.01	-	鳥田中	Toritanaka	https://tabelog.com/tw/tokyo/A1312/A131203/13208669/
+4.01	4.00	3.85	六本木テラス フィリップ・ミル	Roppongiterasufirippumiru	https://tabelog.com/tw/tokyo/A1307/A130701/13205772/
+4.01	4.01	3.65	西村屋　本館	Nishimurayahonkan	https://tabelog.com/tw/hyogo/A2808/A280801/28023176/
+4.01	4.01	-	鮨 よし田	Yoshida	https://tabelog.com/tw/fukuoka/A4008/A400801/40010507/
+4.01	3.58	4.05	Le Ciel	Le Ciel	https://tabelog.com/tw/tokyo/A1325/A132503/13199145/
+4.01	4.01	-	天ぷら 蕎楽亭	Kyorakutei	https://tabelog.com/tw/tokyo/A1309/A130903/13171952/
+4.01	4.01	-	TXOKO	TXOKO	https://tabelog.com/tw/tokyo/A1309/A130905/13221594/
+4.00	3.98	3.99	手打蕎麦 じゆうさん	Jiyu San	https://tabelog.com/tw/tokyo/A1321/A132101/13025978/
+4.00	3.94	3.89	コンヴィヴィアリテ	Convivialite	https://tabelog.com/tw/osaka/A2701/A270201/27004550/
+4.00	3.10	4.00	嘯月	Shogetsu	https://tabelog.com/tw/kyoto/A2601/A260503/26001672/
+4.00	3.51	3.99	仲佐	Nakasa	https://tabelog.com/tw/gifu/A2104/A210403/21000060/
+4.00	4.00	-	天冨良 よこ田	Yokota	https://tabelog.com/tw/tokyo/A1307/A130702/13001340/
+4.00	3.96	3.67	リストランテ･ヒロ  青山	RISTORANTE HiRo	https://tabelog.com/tw/tokyo/A1306/A130602/13002025/
+4.00	4.09	3.91	鮨処 つく田	Tsukuta	https://tabelog.com/tw/saga/A4102/A410201/41000031/
+4.00	3.86	4.05	ジョンティ アッシュ	Gentil H	https://tabelog.com/tw/tokyo/A1316/A131602/13056132/
+4.00	3.96	3.91	ら すとらあだ	La Strada	https://tabelog.com/tw/tokyo/A1319/A131903/13141774/
+4.00	3.99	3.94	海鮮名菜　香宮	SHANGU	https://tabelog.com/tw/tokyo/A1307/A130701/13132399/
+4.00	4.00	3.66	炭火割烹 蔓ききょう	Tsurukikyo	https://tabelog.com/tw/shiga/A2501/A250101/25003866/
+4.00	3.98	3.69	寿し おおはた	Ohata	https://tabelog.com/tw/osaka/A2701/A270101/27057420/
+4.00	4.00	-	神楽坂　鉄板焼 中むら	Kakugazakateppanyakinakamura	https://tabelog.com/tw/tokyo/A1309/A130905/13134663/
+4.00	4.04	3.87	日本橋 蕎ノ字	nihombashisonoji	https://tabelog.com/tw/tokyo/A1302/A130204/13201969/
+4.00	4.00	3.81	ヴィチーノ	Vicino	https://tabelog.com/tw/aichi/A2301/A230106/23039432/
+4.00	4.00	3.11	弘寿司	Hirozushi	https://tabelog.com/tw/miyagi/A0401/A040105/4000130/
+4.00	4.01	3.61	山荘無量塔	Sansoumurata	https://tabelog.com/tw/oita/A4402/A440201/44000120/
+4.00	4.00	-	翁	Okina	https://tabelog.com/tw/tokyo/A1303/A130302/13001923/
+4.00	3.71	4.12	TTOAHISU	TTOAHISU	https://tabelog.com/tw/fukuoka/A4001/A400105/40042997/
+4.00	4.00	3.06	デュ・ヴァン・ハッシシ	Du Vin HACHISCH	https://tabelog.com/tw/kanagawa/A1401/A140105/14051554/
+4.00	3.99	3.69	リストリア　ラディーチェ	risutoriaradhi-che	https://tabelog.com/tw/kyoto/A2601/A260202/26023199/
+4.00	4.00	-	RODEO	RODEO	https://tabelog.com/tw/tokyo/A1317/A131701/13213575/
+3.99	3.71	3.99	イデミスギノ	HIDEMI SUGINO	https://tabelog.com/tw/tokyo/A1302/A130202/13002285/
+3.99	3.08	3.99	茶寮 宝泉	Saryo Hosen	https://tabelog.com/tw/kyoto/A2601/A260503/26001872/
+3.99	3.57	3.99	らぁ麺屋 飯田商店	Iidashouten	https://tabelog.com/tw/kanagawa/A1410/A141002/14038776/
+3.99	3.93	3.97	とんかつあさくら	Tonkatsu Asakura	https://tabelog.com/tw/aichi/A2301/A230112/23003992/
+3.99	4.03	3.81	OGINO Red&Green Restaurant	OGINO Red&Green Restaurant	https://tabelog.com/tw/tokyo/A1317/A131705/13045099/
+3.99	3.99	-	焼肉 うしごろ 西麻布本店	Ushigoro Nishiazabu	https://tabelog.com/tw/tokyo/A1307/A130701/13124592/
+3.99	3.88	3.90	レストラン ひらまつ	Restaurant Hiramatsu	https://tabelog.com/tw/tokyo/A1307/A130703/13001590/
+3.99	3.97	3.90	ビストロ ダイア	BISTRO DIA	https://tabelog.com/tw/aichi/A2301/A230104/23042388/
+3.99	3.96	3.94	てんぷらと和食 山の上 本店・御茶ノ水	tempuratowashokuyamanoue	https://tabelog.com/tw/tokyo/A1310/A131002/13000621/
+3.99	3.87	4.08	ラール・エ・ラ・マニエール	Lart et la maniere	https://tabelog.com/tw/tokyo/A1301/A130101/13095732/
+3.99	3.99	-	麻布 かどわき	Kadowaki	https://tabelog.com/tw/tokyo/A1307/A130702/13001664/
+3.99	3.99	3.60	懐石料理 桝田	MASUDA	https://tabelog.com/tw/osaka/A2701/A270201/27000831/
+3.99	3.87	3.97	鰻 にしはら	Nishihara	https://tabelog.com/tw/osaka/A2701/A270104/27081196/
+3.99	3.99	-	鳥みつ	Torimitsu	https://tabelog.com/tw/tokyo/A1304/A130401/13136411/
+3.99	3.99	3.09	鮨 由う	Yu	https://tabelog.com/tw/tokyo/A1307/A130701/13201640/
+3.99	3.99	3.68	Chi-Fu	Chi-Fu	https://tabelog.com/tw/osaka/A2701/A270103/27060667/
+3.99	3.93	3.92	老松 喜多川	Oimatsu Kitagawa	https://tabelog.com/tw/osaka/A2701/A270103/27067696/
+3.99	3.63	3.98	サルメリアロッキュー	Sarumeriarokkyu	https://tabelog.com/tw/tokyo/A1318/A131814/13123698/
+3.99	3.84	4.03	銀座 奥田	Okuda	https://tabelog.com/tw/tokyo/A1301/A130101/13129763/
+3.99	3.99	3.61	Grand rocher	Grand rocher	https://tabelog.com/tw/osaka/A2701/A270102/27097439/
+3.99	3.97	3.81	美榮	Mie	https://tabelog.com/tw/okinawa/A4701/A470101/47002034/
+3.99	4.01	3.85	Arashida	Arashida	https://tabelog.com/tw/kanagawa/A1404/A140402/14037922/
+3.99	3.99	-	鉄板焼き いわ倉	teppanyakiiwakura	https://tabelog.com/tw/tokyo/A1309/A130905/13189075/
+3.99	3.66	4.17	日本料理 きた川	Nihonryourikitagawa	https://tabelog.com/tw/shiga/A2502/A250202/25008409/
+3.98	3.21	3.99	讃岐うどん がもう	Gamou	https://tabelog.com/tw/kagawa/A3702/A370201/37000019/
+3.98	3.98	3.06	シシリヤ	Sisiliya	https://tabelog.com/tw/kanagawa/A1401/A140104/14001040/
+3.98	3.96	3.88	カランドリエ	CALENDRIER	https://tabelog.com/tw/osaka/A2701/A270106/27000095/
+3.98	3.89	3.96	レザンファン ギャテ	Les enfants gates	https://tabelog.com/tw/tokyo/A1303/A130303/13039567/
+3.98	3.70	3.97	鰻禅	Unazen	https://tabelog.com/tw/tokyo/A1312/A131203/13058979/
+3.98	3.98	-	焼肉くにもと 新館	Kunimoto Shinkan	https://tabelog.com/tw/tokyo/A1314/A131401/13035852/
+3.98	4.01	3.84	メゾン・ド・ユーロン	Maison de YULONG	https://tabelog.com/tw/tokyo/A1308/A130801/13002871/
+3.98	4.00	4.00	龍圓	Ryuuen	https://tabelog.com/tw/tokyo/A1311/A131102/13003700/
+3.98	4.07	3.82	ラトラス	L’Atlas	https://tabelog.com/tw/tokyo/A1309/A130905/13059639/
+3.98	3.96	3.78	祇園 さゝ木	Sasaki	https://tabelog.com/tw/kyoto/A2601/A260301/26001863/
+3.98	4.06	3.65	ヴィンチェロ	Vincero	https://tabelog.com/tw/tokyo/A1304/A130402/13004299/
+3.98	3.97	3.96	レストラン ラッセ	Restaurant L'asse	https://tabelog.com/tw/tokyo/A1316/A131601/13125439/
+3.98	3.99	3.89	飄香 麻布十番本店	Piao-xiang Azabujuban Honten	https://tabelog.com/tw/tokyo/A1307/A130702/13018802/
+3.98	3.98	-	アッピア アルタ 西麻布	Appia alta	https://tabelog.com/tw/tokyo/A1307/A130703/13054090/
+3.98	4.02	3.79	施家菜	Shikasai	https://tabelog.com/tw/hyogo/A2801/A280101/28038124/
+3.98	3.98	-	座屋	Izariya	https://tabelog.com/tw/kochi/A3901/A390101/39000116/
+3.98	3.58	3.97	元祖 むらさき	Murasaki	https://tabelog.com/tw/akita/A0502/A050201/5000061/
+3.98	3.98	-	マルゴット エ バッチャーレ	Margotto e Baciare	https://tabelog.com/tw/tokyo/A1307/A130703/13172139/
+3.98	3.98	-	CarneSio east	CarneSio east	https://tabelog.com/tw/tokyo/A1303/A130302/13211666/
+3.98	4.00	3.81	eclat	Ekura	https://tabelog.com/tw/tokyo/A1320/A132001/13175715/
+3.98	3.98	-	とく山	Tokuyama	https://tabelog.com/tw/tokyo/A1307/A130703/13002088/
+3.98	3.66	3.95	リストランテ シーヴァ	Risutoranteshiva	https://tabelog.com/tw/kanagawa/A1404/A140402/14062451/
+3.98	3.98	-	大どころ	Daidokoro	https://tabelog.com/tw/fukuoka/A4001/A400104/40036894/
+3.98	4.00	3.73	アジル	ARGILE	https://tabelog.com/tw/tokyo/A1301/A130101/13198508/
+3.98	3.88	3.98	stesso e Magari CHIC	Stesso e Magari CHIC	https://tabelog.com/tw/tokyo/A1302/A130203/13207120/
+3.98	3.98	3.51	鮨 波づき	Sushihaduki	https://tabelog.com/tw/tokyo/A1317/A131716/13214167/
+3.98	3.90	3.95	おが和	Ogawa	https://tabelog.com/tw/kyoto/A2601/A260301/26016861/
+3.98	3.98	-	オルディヴェール	ordiverre	https://tabelog.com/tw/tokyo/A1316/A131602/13212408/
+3.98	3.98	3.46	オルタナティブ	Alternative	https://tabelog.com/tw/tokyo/A1307/A130701/13200186/
+3.97	3.84	4.08	丸五	Marugo	https://tabelog.com/tw/tokyo/A1310/A131001/13000379/
+3.97	3.97	3.09	焼肉問屋 牛蔵	Gyuzo	https://tabelog.com/tw/tokyo/A1321/A132102/13008910/
+3.97	4.01	3.67	レストラン香味屋	Resutorankamiya	https://tabelog.com/tw/tokyo/A1311/A131104/13003752/
+3.97	3.97	-	赤坂 みすじ	Misuji	https://tabelog.com/tw/tokyo/A1308/A130801/13114946/
+3.97	3.97	-	焼き鳥 丈参	Takesan	https://tabelog.com/tw/tokyo/A1302/A130204/13046105/
+3.97	4.03	3.79	北新地 福多亭	Fukudatei	https://tabelog.com/tw/osaka/A2701/A270101/27066944/
+3.97	3.97	-	みょうが屋	Miugaya	https://tabelog.com/tw/miyazaki/A4501/A450101/45000273/
+3.97	3.98	3.50	うぶか	Ubuka	https://tabelog.com/tw/tokyo/A1309/A130903/13139225/
+3.97	3.96	3.65	浪速割烹 喜川	Kigawa	https://tabelog.com/tw/osaka/A2701/A270202/27001248/
+3.97	3.97	3.56	Le Bonze	Le Bonze	https://tabelog.com/tw/tokyo/A1301/A130101/13144110/
+3.97	3.97	-	どおぞの	Dozono	https://tabelog.com/tw/osaka/A2701/A270101/27006599/
+3.97	3.97	-	沁ゆうき	Shin-yuki	https://tabelog.com/tw/osaka/A2701/A270101/27052462/
+3.97	3.97	3.06	代々木 今半	Yoyogi Imahan	https://tabelog.com/tw/tokyo/A1318/A131810/13001039/
+3.97	-	3.97	石臼挽き蕎麦香房 山の実	ishiusuhikisobakoubouyamanomi	https://tabelog.com/tw/nagano/A2001/A200104/20000397/
+3.97	3.97	-	やきとり 心香	SHINKA	https://tabelog.com/tw/tokyo/A1307/A130701/13134990/
+3.97	3.97	-	たでの葉	Tadenoha	https://tabelog.com/tw/tokyo/A1306/A130603/13208304/
+3.97	3.95	3.91	グランド ダイア	GRAND DIA	https://tabelog.com/tw/aichi/A2301/A230101/23065259/
+3.97	3.97	3.00	ヴィノテカサクラ	vinotekasakura	https://tabelog.com/tw/kanagawa/A1401/A140104/14002095/
+3.97	3.94	3.96	鮨 一條	Sushiichijou	https://tabelog.com/tw/tokyo/A1302/A130204/13191562/
+3.97	3.97	-	纐纈	Kouketsu	https://tabelog.com/tw/osaka/A2701/A270101/27082391/
+3.97	3.61	3.96	花祥	Kashou	https://tabelog.com/tw/osaka/A2705/A270502/27001144/
+3.97	3.95	4.38	クロモリ	KUROMORI	https://tabelog.com/tw/miyagi/A0401/A040105/4017272/
+3.97	3.91	3.90	Fukushima	Fukushima	https://tabelog.com/tw/tokyo/A1317/A131702/13204455/
+3.96	3.60	3.95	俺のラーメン あっぱれ屋	Orenoramenappareya	https://tabelog.com/tw/kyoto/A2607/A260704/26011617/
+3.96	3.96	3.63	タンドールバル カマルプール	Kamarupuru	https://tabelog.com/tw/tokyo/A1313/A131303/13128960/
+3.96	3.86	4.02	リストランテ ラ チャウ	Ristrante La ciau	https://tabelog.com/tw/tokyo/A1314/A131402/13044737/
+3.96	3.97	3.25	銀座 しまだ	Shimada	https://tabelog.com/tw/tokyo/A1301/A130101/13136359/
+3.96	3.97	3.87	サーラ アマービレ	Sala Amabile	https://tabelog.com/tw/tokyo/A1301/A130101/13113809/
+3.96	3.76	3.96	SPICY CURRY 魯珈	Supaishikareroka	https://tabelog.com/tw/tokyo/A1304/A130404/13203027/
+3.96	3.92	3.99	Ristorante Cascina Canamilla	Ristorante Cascina Canamilla	https://tabelog.com/tw/tokyo/A1317/A131701/13020531/
+3.96	3.91	3.96	あざみ野うかい亭	AZAMINO Ukai-tei	https://tabelog.com/tw/kanagawa/A1401/A140201/14003795/
+3.96	3.95	3.87	デュ バリー	du Barry	https://tabelog.com/tw/tokyo/A1317/A131705/13110276/
+3.96	3.96	-	アヒルストア	AHIRU STORE	https://tabelog.com/tw/tokyo/A1318/A131810/13051357/
+3.96	3.95	3.87	帰燕	Kien	https://tabelog.com/tw/tokyo/A1308/A130802/13100055/
+3.96	3.96	-	六雁	Mutsukari	https://tabelog.com/tw/tokyo/A1301/A130101/13005014/
+3.96	3.90	3.90	La Cime	rashi-mu	https://tabelog.com/tw/osaka/A2701/A270106/27049485/
+3.96	3.84	3.97	la Brianza	La Brianza	https://tabelog.com/tw/tokyo/A1307/A130702/13194346/
+3.96	4.13	3.67	ペペロッソ	PepeRosso	https://tabelog.com/tw/tokyo/A1317/A131706/13013812/
+3.96	3.96	-	野口太郎	Noguchi Taro	https://tabelog.com/tw/osaka/A2701/A270101/27046071/
+3.96	3.99	3.65	ビストロアム	Ame	https://tabelog.com/tw/tokyo/A1303/A130302/13186920/
+3.96	3.60	4.00	ミッシェル ナカジマ	Michel Nakajima	https://tabelog.com/tw/kanagawa/A1404/A140402/14004587/
+3.96	3.96	-	鮨 たかはし	Sushi Takahashi	https://tabelog.com/tw/tokyo/A1301/A130101/13165933/
+3.96	3.96	-	くろ﨑	Kurosaki	https://tabelog.com/tw/tokyo/A1303/A130301/13178821/
+3.96	4.13	3.85	アーティショー	Artichaut	https://tabelog.com/tw/tokyo/A1303/A130302/13042337/
+3.96	3.79	3.77	小暮や	Kogureya	https://tabelog.com/tw/chiba/A1203/A120304/12000292/
+3.96	3.96	-	牧野	Makino	https://tabelog.com/tw/tokyo/A1314/A131405/13027466/
+3.96	3.95	3.09	パッソ・ア・パッソ	Passo a Passo	https://tabelog.com/tw/tokyo/A1313/A131303/13004092/
+3.96	3.96	3.06	寿志 城助	Jousuke	https://tabelog.com/tw/hyogo/A2801/A280103/28006575/
+3.96	3.96	-	なな治	Nanaharu	https://tabelog.com/tw/kyoto/A2601/A260301/26006925/
+3.96	3.93	3.79	新橋鶴八	shimbashitsuruhachi	https://tabelog.com/tw/tokyo/A1301/A130103/13173432/
+3.96	3.96	3.59	レスト　ケイ　ヤマウチ	RESTAU K YAMAUCHI	https://tabelog.com/tw/aichi/A2301/A230102/23052570/
+3.96	3.97	3.30	ブレストンコート ユカワタン	buresutonko-toyukawatan	https://tabelog.com/tw/nagano/A2003/A200301/20014528/
+3.96	4.02	3.81	日本料理 山崎	Nihonryouriyamazaki	https://tabelog.com/tw/toyama/A1601/A160101/16000725/
+3.96	3.96	3.58	アルドアック	Ardoak	https://tabelog.com/tw/tokyo/A1318/A131810/13141888/
+3.96	3.96	3.54	柳家錦	Yanagiyanishiki	https://tabelog.com/tw/aichi/A2301/A230103/23060455/
+3.96	3.96	-	TAKAZAWA	TAKAZAWA	https://tabelog.com/tw/tokyo/A1308/A130801/13019663/
+3.96	3.84	4.04	弧玖	Kokyuu	https://tabelog.com/tw/kyoto/A2601/A260302/26026456/
+3.96	3.96	3.20	スペイン料理サルデスカ	Supeinryourisarudesuka	https://tabelog.com/tw/tokyo/A1311/A131104/13196197/
+3.95	3.95	3.85	ラ ターブル ドゥ ジョエル・ロブション	LA TABLE de Joel Robuchon	https://tabelog.com/tw/tokyo/A1303/A130302/13010725/
+3.95	3.95	3.75	三嶋亭 本店	Mishimatei Honten	https://tabelog.com/tw/kyoto/A2601/A260201/26000646/
+3.95	3.89	3.88	ミシェル・ブラス トーヤ ジャポン	Michel Bras TOYA Japon	https://tabelog.com/tw/hokkaido/A0108/A010801/1000137/
+3.95	3.93	4.00	梅乃寿司	Umenozushi	https://tabelog.com/tw/hokkaido/A0105/A010501/1001279/
+3.95	3.70	3.97	レストラン フウ	Restaurant FEU	https://tabelog.com/tw/tokyo/A1307/A130701/13001975/
+3.95	3.70	3.93	鰻 むさし乃	Unagimusashino	https://tabelog.com/tw/saitama/A1101/A110102/11003959/
+3.95	3.84	3.94	バローレ	Valore	https://tabelog.com/tw/hokkaido/A0104/A010403/1005335/
+3.95	3.73	3.87	もり田	Morita	https://tabelog.com/tw/fukuoka/A4004/A400401/40000408/
+3.95	3.95	-	毛利	mouri	https://tabelog.com/tw/tokyo/A1301/A130101/13002661/
+3.95	3.95	-	銀座 座屋	Izariya	https://tabelog.com/tw/tokyo/A1301/A130101/13060453/
+3.95	3.82	3.97	鮨 鈴木	sushisuzuki	https://tabelog.com/tw/tokyo/A1301/A130101/13184367/
+3.95	3.74	3.98	白金台こばやし	shirokanedaikobayashi	https://tabelog.com/tw/tokyo/A1303/A130302/13162454/
+3.95	3.95	-	ビストロ・シンバ	bistrosimba	https://tabelog.com/tw/tokyo/A1313/A131301/13186713/
+3.95	3.95	3.06	季節料理　なかしま	Kisetsuryourinakashima	https://tabelog.com/tw/hiroshima/A3401/A340101/34016189/
+3.95	3.98	3.61	祇園にしむら	Gionnishimura	https://tabelog.com/tw/kyoto/A2601/A260301/26001724/
+3.95	3.95	-	佳肴岡もと	Kakouokamoto	https://tabelog.com/tw/kyoto/A2601/A260301/26022988/
+3.95	3.95	-	鮨　仙八	Sushisempachi	https://tabelog.com/tw/kumamoto/A4301/A430101/43002645/
+3.95	3.95	-	好信楽 西中洲	koushinrakunishinakasu	https://tabelog.com/tw/fukuoka/A4001/A400103/40023501/
+3.95	3.95	-	ホスタリア エル・カンピドイオ	Er Campidojo	https://tabelog.com/tw/tokyo/A1318/A131813/13085258/
+3.95	3.95	-	竹政	Takemasa	https://tabelog.com/tw/tokyo/A1323/A132302/13177243/
+3.95	3.95	3.00	新橋 いっぱし	Shimbashiippashi	https://tabelog.com/tw/tokyo/A1301/A130103/13224766/
+3.94	4.03	3.95	うどん 丸香	Udon Maruka	https://tabelog.com/tw/tokyo/A1310/A131003/13000629/
+3.94	3.97	3.89	ダバ インディア	Dhaba India	https://tabelog.com/tw/tokyo/A1302/A130202/13000506/
+3.94	3.73	3.91	らーめん 鶏喰	ra-mentorikku	https://tabelog.com/tw/kanagawa/A1401/A140306/14048864/
+3.94	3.87	3.87	もち豚とんかつ たいよう	mochibutatonkatsutaiyou	https://tabelog.com/tw/tokyo/A1317/A131710/13059862/
+3.94	3.83	3.92	麺屋NOROMA	Noroma	https://tabelog.com/tw/nara/A2901/A290101/29007675/
+3.94	3.91	3.91	うち山	Uchiyama	https://tabelog.com/tw/tokyo/A1301/A130101/13002322/
+3.94	3.95	3.87	カンブーザ	CAMBUSA	https://tabelog.com/tw/kanagawa/A1401/A140101/14035347/
+3.94	3.89	3.86	中華ソバ 伊吹	Ibuki	https://tabelog.com/tw/tokyo/A1322/A132205/13163874/
+3.94	3.88	3.92	ラ・ベ	La Baie	https://tabelog.com/tw/osaka/A2701/A270101/27000702/
+3.94	3.61	3.92	アシッドラシーヌ	acidracines	https://tabelog.com/tw/osaka/A2701/A270104/27071315/
+3.94	3.91	3.82	らぁ麺 紫陽花	Raamenajisai	https://tabelog.com/tw/aichi/A2301/A230112/23055953/
+3.94	3.94	3.68	アンティカ オステリア カルネヤ	ANTICA OSTERIA CARNEYA	https://tabelog.com/tw/tokyo/A1309/A130905/13045549/
+3.94	3.08	3.94	西端手打 上戸	seitanteuchijouto	https://tabelog.com/tw/kagawa/A3703/A370301/37000152/
+3.94	3.69	3.91	炭焼うなぎ 加茂	Sumiyakiunagikamo	https://tabelog.com/tw/shizuoka/A2202/A220201/22008615/
+3.94	3.93	3.66	リストランティーノ　ルベロ	Ristorantino Lubero	https://tabelog.com/tw/tokyo/A1316/A131601/13045711/
+3.94	3.04	3.94	煮干中華ソバ イチカワ	niboshichuukasobaichikawa	https://tabelog.com/tw/ibaraki/A0802/A080201/8014295/
+3.94	3.04	3.94	慈久庵	Jikyuan	https://tabelog.com/tw/ibaraki/A0805/A080502/8000227/
+3.94	3.94	3.00	鳥恵 上野広小路店	Torie	https://tabelog.com/tw/tokyo/A1311/A131101/13128870/
+3.94	3.89	3.78	赤坂璃宮 銀座店	Akasakarikyuu	https://tabelog.com/tw/tokyo/A1301/A130101/13013346/
+3.94	4.00	3.85	割烹 やました	Yamashita	https://tabelog.com/tw/kyoto/A2601/A260202/26001867/
+3.94	3.95	3.59	北京遊膳	Beijing Yuzen	https://tabelog.com/tw/tokyo/A1319/A131906/13001102/
+3.94	3.94	3.20	北新地 弧柳	Koryu	https://tabelog.com/tw/osaka/A2701/A270101/27040935/
+3.94	3.94	-	鳥かど	Torikado	https://tabelog.com/tw/tokyo/A1316/A131601/13202530/
+3.94	3.89	3.66	京都 吉兆 嵐山本店	Kitcho Arashiyama	https://tabelog.com/tw/kyoto/A2601/A260403/26001312/
+3.94	3.95	3.66	蕎麦切り 酒 大愚	Sobakirisaketaigu	https://tabelog.com/tw/tokyo/A1308/A130802/13130565/
+3.94	3.94	-	鮨 八や	Sushi Hachiya	https://tabelog.com/tw/ishikawa/A1701/A170101/17000512/
+3.94	3.94	-	敦煌	Tonko	https://tabelog.com/tw/tokyo/A1309/A130903/13000935/
+3.94	3.97	3.80	ル・ヴァンキャトル	Le vin quatre	https://tabelog.com/tw/tokyo/A1305/A130502/13155343/
+3.94	3.92	3.97	銀座 よし澤	Ginzayoshizawa	https://tabelog.com/tw/tokyo/A1301/A130101/13175030/
+3.94	3.94	-	TRATTORIA GANZO	TRATTORIA GANZO	https://tabelog.com/tw/tokyo/A1301/A130101/13145331/
+3.94	3.94	-	羊SUNRISE	HITSUJI SUNRISE	https://tabelog.com/tw/tokyo/A1307/A130702/13202705/
+3.94	3.94	-	焼鳥 うの	Yakitoriuno	https://tabelog.com/tw/tokyo/A1317/A131711/13130757/
+3.94	3.90	3.90	レストラン ローブ	Restaurant L'aube	https://tabelog.com/tw/tokyo/A1307/A130702/13198413/
+3.94	3.98	3.57	懐石 大原	Ohara	https://tabelog.com/tw/tokyo/A1309/A130903/13145329/
+3.94	3.94	-	すし匠	Sushisho	https://tabelog.com/tw/akita/A0501/A050101/5007025/
+3.93	3.84	3.90	煮干鰮らーめん 圓	Niboshiiwashiramenen	https://tabelog.com/tw/tokyo/A1329/A132904/13091258/
+3.93	3.93	3.52	岸田屋	Kishidaya	https://tabelog.com/tw/tokyo/A1313/A131302/13002239/
+3.93	3.92	3.36	万両 南森町店	Manryou	https://tabelog.com/tw/osaka/A2701/A270103/27002291/
+3.93	3.79	3.88	中華そば 四つ葉	chuukasobayotsuba	https://tabelog.com/tw/saitama/A1105/A110502/11034264/
+3.93	3.82	3.92	うなぎ屋 廣川	Hirokawa	https://tabelog.com/tw/kyoto/A2601/A260403/26000921/
+3.93	3.87	3.92	オ・プレチェネッラ	O Pulecenella	https://tabelog.com/tw/kanagawa/A1401/A140101/14000055/
+3.93	3.70	3.98	鰻家	Unagiya	https://tabelog.com/tw/tokyo/A1321/A132101/13012445/
+3.93	3.05	3.93	胡蝶庵 仙波	Kochoan Senba	https://tabelog.com/tw/gifu/A2101/A210101/21000104/
+3.93	3.94	3.73	菊乃井 本店	Kikunoi Honten	https://tabelog.com/tw/kyoto/A2601/A260301/26001346/
+3.93	3.89	3.96	鮨　太一	Sushitaichi	https://tabelog.com/tw/tokyo/A1301/A130101/13060788/
+3.93	3.93	3.01	シェフス	CHEF'S	https://tabelog.com/tw/tokyo/A1304/A130402/13000884/
+3.93	3.93	-	BAR 保志	Bahoshi	https://tabelog.com/tw/tokyo/A1301/A130101/13007819/
+3.93	3.93	-	萬屋 おかげさん	Yorozuya Okagesan	https://tabelog.com/tw/tokyo/A1309/A130903/13025617/
+3.93	3.96	3.58	チッタ アルタ	CITTA' ALTA	https://tabelog.com/tw/tokyo/A1310/A131003/13091849/
+3.93	3.90	3.89	リストランテ サクラ	Ristorante SAKURA	https://tabelog.com/tw/chiba/A1201/A120101/12034579/
+3.93	3.90	3.47	鳥匠 いし井	toritakumiishii	https://tabelog.com/tw/osaka/A2701/A270108/27090089/
+3.93	3.59	3.96	鮨 久いち	Sushihisaichi	https://tabelog.com/tw/tokyo/A1311/A131102/13021324/
+3.93	3.97	3.85	メイ	MAY	https://tabelog.com/tw/tokyo/A1316/A131603/13168755/
+3.93	3.93	3.04	ワイ アンド エム バー・キスリング	Y&M Bar KISLING	https://tabelog.com/tw/tokyo/A1301/A130101/13007814/
+3.93	3.91	3.59	夕凪橋 多古安	Takoyasu	https://tabelog.com/tw/osaka/A2701/A270402/27041365/
+3.93	3.89	3.85	ラ ヴィオレッタ	La Violetta	https://tabelog.com/tw/aichi/A2301/A230110/23060503/
+3.93	3.93	-	天ぷら　酒菜　醍醐	Tempurashusaidaigo	https://tabelog.com/tw/akita/A0501/A050101/5000837/
+3.93	3.83	3.90	和ごころ 泉	Wagokoro Izumi	https://tabelog.com/tw/kyoto/A2601/A260201/26006071/
+3.93	3.54	4.00	ロムデュタン シニエ ア・ニュ	L'homme du temps signé à nu	https://tabelog.com/tw/tokyo/A1301/A130101/13207432/
+3.93	3.92	3.51	みくり	Mikuri	https://tabelog.com/tw/tokyo/A1302/A130202/13197126/
+3.93	-	3.93	ミネソラ	minesora	https://tabelog.com/tw/mie/A2404/A240402/24015767/
+3.93	3.88	3.85	ラ メゾン フィニステール	La maison finistère	https://tabelog.com/tw/tokyo/A1303/A130302/13213783/
+3.92	3.66	3.92	Japanese Soba Noodles 蔦	Japanizusobanudorutsuta	https://tabelog.com/tw/tokyo/A1323/A132301/13136231/
+3.92	3.66	3.92	エーグルドゥース	Egurudosu	https://tabelog.com/tw/tokyo/A1305/A130502/13005641/
+3.92	3.58	3.91	ケンズカフェ東京	KEN'S CAFE TOKYO	https://tabelog.com/tw/tokyo/A1304/A130402/13024643/
+3.92	3.80	3.87	中華そば しば田	chuukasobashibata	https://tabelog.com/tw/tokyo/A1326/A132601/13162681/
+3.92	3.88	3.66	かねます	Kanemasu	https://tabelog.com/tw/tokyo/A1313/A131302/13002243/
+3.92	3.89	3.83	VIA Brianza	VIA Brianza	https://tabelog.com/tw/tokyo/A1307/A130702/13004549/
+3.92	3.74	3.91	しげ吉	Shigeyoshi	https://tabelog.com/tw/gifu/A2102/A210204/21000054/
+3.92	3.76	3.90	らーめん専門 和心 武庫之荘店	ra-mensemmonnagomi	https://tabelog.com/tw/hyogo/A2803/A280304/28042762/
+3.92	3.89	3.87	アルジェント ASAMI	arujentoasami	https://tabelog.com/tw/tokyo/A1301/A130101/13016560/
+3.92	3.89	3.87	Felicelina	Felicelina	https://tabelog.com/tw/tokyo/A1317/A131701/13130019/
+3.92	4.00	3.91	ラ スフォリーナ	La Sfoglina	https://tabelog.com/tw/tokyo/A1306/A130603/13157731/
+3.92	3.70	3.98	オオハラ エ シーアイイー	OHARA ET CIE	https://tabelog.com/tw/tokyo/A1307/A130701/13005432/
+3.92	3.69	3.99	ヴォーロ・コズィ	Volo Cosi	https://tabelog.com/tw/tokyo/A1323/A132301/13024116/
+3.92	3.28	3.92	塩芳軒	Shioyoshiken	https://tabelog.com/tw/kyoto/A2601/A260202/26005963/
+3.92	3.92	3.70	トラットリア・アルベロ	TRATTORIA ALBERO	https://tabelog.com/tw/chiba/A1201/A120105/12001819/
+3.92	3.95	3.63	zoe's	Zoe's	https://tabelog.com/tw/chiba/A1203/A120301/12000870/
+3.92	3.88	3.87	うなぎ屋酒坊・画荘 越後屋	Echigoya	https://tabelog.com/tw/saitama/A1106/A110601/11002889/
+3.92	3.92	-	鮨 波やし	Hayashi	https://tabelog.com/tw/tokyo/A1319/A131904/13070215/
+3.92	3.96	3.91	南蛮 銀圓亭	Namban Ginentei	https://tabelog.com/tw/tokyo/A1301/A130101/13002305/
+3.92	3.95	3.61	シチリア屋	Shichiriaya	https://tabelog.com/tw/tokyo/A1323/A132301/13172747/
+3.92	3.92	-	Bar Tiare	Bathiare	https://tabelog.com/tw/tokyo/A1308/A130801/13100967/
+3.92	3.92	3.76	懐石料理 はし本	Kaisekiryourihashimoto	https://tabelog.com/tw/tokyo/A1302/A130202/13154602/
+3.92	3.96	3.53	豊栄	Houei	https://tabelog.com/tw/tokyo/A1323/A132302/13194172/
+3.92	3.88	3.92	デセール ル コントワール	Dessert Le Comptoir	https://tabelog.com/tw/tokyo/A1317/A131715/13108815/
+3.92	3.92	-	串かんざし 久	Kushikanzashi Kyu	https://tabelog.com/tw/kyoto/A2601/A260301/26001262/
+3.92	3.86	3.95	Vel  ROsier	Beruroojie	https://tabelog.com/tw/hyogo/A2803/A280301/28041471/
+3.92	3.92	-	南方中華料理 南三	Nampouchuukaryouriminami	https://tabelog.com/tw/tokyo/A1309/A130903/13221235/
+3.92	3.54	3.99	レストラン・フォレスト	RESTAURANT FOREST	https://tabelog.com/tw/tokyo/A1317/A131703/13006111/
+3.92	3.92	-	実伶	Mirei	https://tabelog.com/tw/kyoto/A2601/A260202/26027469/
+3.92	3.92	-	和食 いいくら	washokuiikura	https://tabelog.com/tw/osaka/A2701/A270103/27101964/
+3.92	-	3.92	魚石	Uoishi	https://tabelog.com/tw/shiga/A2503/A250301/25007284/
+3.91	3.77	3.91	パティスリー・パリセヴェイユ	patisserie Paris S'eveille	https://tabelog.com/tw/tokyo/A1317/A131703/13005198/
+3.91	3.51	3.91	ル・シュクレクール 岸部	Le Sucre Coeur	https://tabelog.com/tw/osaka/A2706/A270602/27003426/
+3.91	3.50	3.90	寿司大	Sushidai	https://tabelog.com/tw/tokyo/A1313/A131301/13002388/
+3.91	3.77	3.95	とんかつ燕楽	Tonkatsu Enraku	https://tabelog.com/tw/tokyo/A1317/A131714/13034183/
+3.91	3.50	3.90	ラトリエ ドゥ プレジール	L'atelier de Plaisir	https://tabelog.com/tw/tokyo/A1318/A131814/13050412/
+3.91	3.88	3.78	メゾン ポール・ボキューズ	Maison Paul Bocuse	https://tabelog.com/tw/tokyo/A1303/A130303/13040327/
+3.91	3.91	3.06	焼肉 静龍苑	yakinikuseiryuuen	https://tabelog.com/tw/tokyo/A1312/A131201/13044037/
+3.91	4.04	3.61	老香港酒家京都	Orudohonkonresutorankyouto	https://tabelog.com/tw/kyoto/A2601/A260201/26000745/
+3.91	3.86	3.93	トルナヴェント	TORNAVENTO	https://tabelog.com/tw/tokyo/A1307/A130701/13022053/
+3.91	3.95	3.88	シクラメンテ	Siculamente	https://tabelog.com/tw/aichi/A2301/A230105/23044667/
+3.91	3.83	3.78	巽蕎麦 志ま平	tatsumisobashimahei	https://tabelog.com/tw/tokyo/A1309/A130905/13020236/
+3.91	3.88	3.66	クラブ33	club33	https://tabelog.com/tw/chiba/A1202/A120203/12003435/
+3.91	3.91	3.03	バー ノーブル	Bar Noble	https://tabelog.com/tw/kanagawa/A1401/A140104/14001349/
+3.91	-	3.91	蕎麦工房 膳	Sobakoubouzen	https://tabelog.com/tw/kyoto/A2607/A260702/26002288/
+3.91	3.84	3.88	ad hoc 	adokku	https://tabelog.com/tw/osaka/A2701/A270108/27080791/
+3.91	3.92	3.86	リストランテソットラルコ	Ristorante Sotto l'Arco	https://tabelog.com/tw/tokyo/A1301/A130101/13134899/
+3.91	3.91	-	AU GAMIN DE TOKIO	AU GAMIN DE TOKIO	https://tabelog.com/tw/tokyo/A1303/A130302/13049720/
+3.91	3.88	3.78	貧瞋癡	Tonjinchi	https://tabelog.com/tw/toyama/A1604/A160402/16001104/
+3.91	3.91	-	サイフォン	SAIPHON	https://tabelog.com/tw/tokyo/A1312/A131204/13166884/
+3.91	3.91	3.58	イタリアン オット	otto	https://tabelog.com/tw/saitama/A1106/A110601/11026106/
+3.91	3.91	-	世良田	Serata	https://tabelog.com/tw/tokyo/A1307/A130702/13012994/
+3.91	3.91	3.04	山さき	Yamasaki	https://tabelog.com/tw/tokyo/A1309/A130905/13000458/
+3.91	3.91	3.06	かんだ	Kanda	https://tabelog.com/tw/tokyo/A1307/A130701/13005439/
+3.91	3.58	4.01	杉ケ瀬ヤナ	Sugigaseyana	https://tabelog.com/tw/gifu/A2102/A210205/21004466/
+3.91	3.88	3.80	明道町中国菜 一星	meidouchouchuugokusaiiishin	https://tabelog.com/tw/aichi/A2301/A230102/23062130/
+3.91	3.89	3.62	山介	Yamasuke	https://tabelog.com/tw/tokyo/A1311/A131102/13156730/
+3.91	3.91	-	Il Povero Diavolo	Irupoberodhiavoro	https://tabelog.com/tw/osaka/A2701/A270206/27076550/
+3.91	3.86	3.80	アノニム	Anonimu	https://tabelog.com/tw/hyogo/A2801/A280102/28029526/
+3.91	3.91	-	大幸園 小宮本店	Daikouen	https://tabelog.com/tw/tokyo/A1329/A132904/13107594/
+3.91	3.88	3.89	白	Tsukumo	https://tabelog.com/tw/nara/A2901/A290101/29009764/
+3.91	3.83	3.81	鮨　恵三	Sushimegumi	https://tabelog.com/tw/gunma/A1002/A100204/10005841/
+3.91	3.91	-	エスタシオン	Estacion	https://tabelog.com/tw/tokyo/A1309/A130905/13187660/
+3.91	3.98	3.52	龍眉虎ノ尾 西麻布	ryuubitoranoonishiazabu	https://tabelog.com/tw/tokyo/A1307/A130703/13207145/
+3.91	3.58	3.89	綾小路 唐津	Ayanokoujikaratsu	https://tabelog.com/tw/kyoto/A2601/A260201/26029825/
+3.90	3.33	3.89	須崎食料品店	Suzakishokuryohinten	https://tabelog.com/tw/kagawa/A3703/A370303/37000143/
+3.90	3.91	3.37	ラ・ボンバンス	La BOMBANCE	https://tabelog.com/tw/tokyo/A1307/A130701/13016617/
+3.90	3.63	3.88	せきざわ	Sekizawa	https://tabelog.com/tw/nagano/A2001/A200106/20000282/
+3.90	3.89	3.72	御田町 桃の木	Momonoki	https://tabelog.com/tw/tokyo/A1314/A131402/13020738/
+3.90	3.78	4.00	レストラン・パッション	PACHON	https://tabelog.com/tw/tokyo/A1303/A130303/13001911/
+3.90	3.79	4.11	つる幸	Tsuruko	https://tabelog.com/tw/ishikawa/A1701/A170101/17000029/
+3.90	3.75	3.90	幸寿し 本店	Kouzushi Honten	https://tabelog.com/tw/ishikawa/A1703/A170302/17000352/
+3.90	3.79	3.84	たこつぼ	Takotsubo	https://tabelog.com/tw/hiroshima/A3401/A340101/34002931/
+3.90	3.83	3.83	saveur	Saveur	https://tabelog.com/tw/hokkaido/A0101/A010103/1037772/
+3.90	3.58	3.89	ろあん松田 篠山店	Roan Matsuda Sasayamaten	https://tabelog.com/tw/hyogo/A2807/A280702/28000070/
+3.90	3.90	-	コム・ア・ラ・メゾン	COMME A LA MAISON	https://tabelog.com/tw/tokyo/A1308/A130801/13002186/
+3.90	3.75	3.94	鮨 まつ本	Sushimatsumoto	https://tabelog.com/tw/hyogo/A2803/A280301/28006932/
+3.90	3.90	3.42	新ばし 久	Shimbashikyuu	https://tabelog.com/tw/tokyo/A1301/A130103/13030766/
+3.90	3.87	3.87	東洋軒	Toyoken	https://tabelog.com/tw/tokyo/A1308/A130801/13164394/
+3.90	3.32	3.93	さくめ	Sakume	https://tabelog.com/tw/shizuoka/A2202/A220201/22011080/
+3.90	3.87	3.72	たか田八祥	Takada Hassho	https://tabelog.com/tw/gifu/A2101/A210101/21000267/
+3.90	3.90	-	匠　達広	Takumitatsuhiro	https://tabelog.com/tw/tokyo/A1304/A130402/13086506/
+3.90	3.72	3.96	日本料理 櫻川	nihonryourisakuragawa	https://tabelog.com/tw/kyoto/A2601/A260202/26000659/
+3.90	3.90	-	ふじ木	Fujiki	https://tabelog.com/tw/miyazaki/A4501/A450101/45000725/
+3.90	3.89	3.72	浅草じゅうろく	Asakusajuuroku	https://tabelog.com/tw/tokyo/A1311/A131102/13185027/
+3.90	3.89	3.74	花仙庵 仙仁温泉 岩の湯	Kasenansenionseniwanoyu	https://tabelog.com/tw/nagano/A2001/A200102/20007359/
+3.90	3.86	3.86	菊水鮓 西店	Kikusuizushi	https://tabelog.com/tw/hyogo/A2804/A280401/28031883/
+3.90	3.86	3.86	すし兆	Sushichou	https://tabelog.com/tw/akita/A0501/A050101/5006548/
+3.90	3.56	4.00	ソリス アグリトゥーリズモ	SOLIS Agriturismo	https://tabelog.com/tw/kanagawa/A1406/A140602/14059426/
+3.89	3.58	3.87	つけ麺 道	tsukememmichi	https://tabelog.com/tw/tokyo/A1324/A132403/13094595/
+3.89	3.52	3.88	パティスリーエス	Pathisuriesu	https://tabelog.com/tw/kyoto/A2601/A260201/26012808/
+3.89	3.89	3.80	伊勢鮨	Isezushi	https://tabelog.com/tw/hokkaido/A0106/A010601/1000008/
+3.89	3.78	3.89	らぁ麺 とうひち	Touhichi	https://tabelog.com/tw/kyoto/A2601/A260503/26025306/
+3.89	3.82	3.84	ピエール・ガニェール	PIERRE GAGNAIRE 	https://tabelog.com/tw/tokyo/A1308/A130802/13103993/
+3.89	3.96	3.74	入谷鬼子母神門前のだや	iriyakishimojimmonzennodaya	https://tabelog.com/tw/tokyo/A1311/A131104/13152282/
+3.89	3.89	-	銀座 テンダー	Ginzatenda	https://tabelog.com/tw/tokyo/A1301/A130101/13002618/
+3.89	3.89	3.03	祥瑞	SHONZUI	https://tabelog.com/tw/tokyo/A1307/A130701/13001263/
+3.89	3.89	-	西麻布けんしろう	nishiazabukenshirou	https://tabelog.com/tw/tokyo/A1307/A130703/13184885/
+3.89	3.89	-	薄野 鮨金	Susukinosushikin	https://tabelog.com/tw/hokkaido/A0101/A010103/1002644/
+3.89	3.89	-	ミルカレス	MILLE CARESSES	https://tabelog.com/tw/osaka/A2701/A270101/27041762/
+3.89	3.89	3.73	ビーフステーキ専門店　ひよこ	Bifusutekisemmontenhiyoko	https://tabelog.com/tw/ishikawa/A1701/A170101/17001557/
+3.89	3.58	3.82	美はる	Miharu	https://tabelog.com/tw/aichi/A2303/A230302/23043621/
+3.89	3.75	3.97	ヴァリノール	Valinor	https://tabelog.com/tw/tokyo/A1319/A131906/13124693/
+3.89	3.09	3.89	鰻家	Unagiya	https://tabelog.com/tw/osaka/A2701/A270301/27080635/
+3.89	3.99	3.58	ミネバル	MiNE BARU	https://tabelog.com/tw/tokyo/A1303/A130301/13131009/
+3.89	3.89	3.61	鶴八	Tsuruhachi	https://tabelog.com/tw/tokyo/A1310/A131003/13000419/
+3.89	3.77	3.93	モンプチコションローズ	Mon Petit Cochon Rose	https://tabelog.com/tw/tokyo/A1323/A132301/13147009/
+3.89	3.69	3.85	中善	Nakazen	https://tabelog.com/tw/kyoto/A2601/A260302/26014039/
+3.89	3.65	3.89	たつ庄	Tatsushou	https://tabelog.com/tw/fukuoka/A4001/A400104/40006240/
+3.89	3.85	3.72	鮨 かんび	Sushikambi	https://tabelog.com/tw/fukuoka/A4001/A400106/40038828/
+3.89	3.89	3.58	りょうり屋 くどう	Ryouriyakudou	https://tabelog.com/tw/hyogo/A2801/A280101/28033591/
+3.89	3.89	3.90	鮨ふじ田	Sushifujita	https://tabelog.com/tw/tokyo/A1301/A130101/13172149/
+3.89	3.87	3.68	はらまさ	Haramasa	https://tabelog.com/tw/tokyo/A1309/A130903/13151542/
+3.89	3.91	3.86	鮨　あら田	Sushiarata	https://tabelog.com/tw/akita/A0501/A050101/5000861/
+3.89	3.92	3.58	味舌	Mashita	https://tabelog.com/tw/kyoto/A2601/A260301/26000265/
+3.89	3.75	3.98	寛幸	Hiroyuki	https://tabelog.com/tw/tokyo/A1301/A130101/13187102/
+3.89	3.89	-	FRANZ	FRANZ	https://tabelog.com/tw/tokyo/A1307/A130703/13210554/
+3.89	3.52	3.97	マルタ	Maruta	https://tabelog.com/tw/tokyo/A1326/A132601/13219686/
+3.88	3.54	3.88	シニフィアン シニフィエ 世田谷本店	Signifiant Signifie	https://tabelog.com/tw/tokyo/A1317/A131706/13030788/
+3.88	3.56	3.87	中華そば屋 伊藤	Chuukasobayaitou	https://tabelog.com/tw/tokyo/A1323/A132304/13008779/
+3.88	3.93	3.87	麺や而今	Menyajikon	https://tabelog.com/tw/osaka/A2707/A270704/27054613/
+3.88	3.34	3.88	芳光	Yoshimitsu	https://tabelog.com/tw/aichi/A2301/A230110/23001413/
+3.88	3.68	3.87	勝烈亭 新市街本店	Katsuretsutei	https://tabelog.com/tw/kumamoto/A4301/A430101/43000307/
+3.88	3.73	3.93	キュイジーヌ[s] ミッシェル・トロワグロ	Cuisine[s] Michel Troisgros	https://tabelog.com/tw/tokyo/A1304/A130401/13025796/
+3.88	3.69	3.93	ル・プティ・ブドン	Le Petit Bedon	https://tabelog.com/tw/tokyo/A1303/A130303/13004615/
+3.88	3.06	3.88	麦と麺助 新梅田中津店	Mugitomensuke	https://tabelog.com/tw/osaka/A2701/A270101/27104891/
+3.88	3.82	3.94	小笹寿し	Kozasazushi	https://tabelog.com/tw/tokyo/A1301/A130103/13000569/
+3.88	3.79	3.85	レストランディファランス	Restaurant Difference	https://tabelog.com/tw/osaka/A2701/A270102/27074095/
+3.88	3.88	3.00	鮨 のぐち	sushinoguchi	https://tabelog.com/tw/osaka/A2701/A270101/27004965/
+3.88	3.88	-	鮨 りんだ	RINDA	https://tabelog.com/tw/tokyo/A1316/A131601/13168140/
+3.88	3.85	3.47	創作串揚　つだ	Sousakukushiagetsuda	https://tabelog.com/tw/aichi/A2301/A230104/23049460/
+3.88	3.88	-	鮨　臥龍	Sushigaryuu	https://tabelog.com/tw/tokyo/A1309/A130903/13127957/
+3.88	3.88	3.06	ドン・ナチュール	DONS de la NATURE	https://tabelog.com/tw/tokyo/A1301/A130101/13018798/
+3.88	3.88	-	いはら田	Iharada	https://tabelog.com/tw/kyoto/A2601/A260203/26001469/
+3.88	3.88	-	タンテール富士	tante-rufuji	https://tabelog.com/tw/fukuoka/A4001/A400105/40004080/
+3.88	3.87	3.88	ル　ボークープ	Le Beaucoup	https://tabelog.com/tw/tokyo/A1318/A131811/13164427/
+3.88	3.87	3.75	祗園245	gionni-yongo	https://tabelog.com/tw/kyoto/A2601/A260301/26018705/
+3.88	3.83	3.74	小熊	Koguma	https://tabelog.com/tw/tokyo/A1301/A130101/13169901/
+3.88	3.88	3.52	ふじ原	Fujiwara	https://tabelog.com/tw/aichi/A2301/A230103/23059862/
+3.88	3.88	3.06	サトブリDA	Satoburidhie	https://tabelog.com/tw/tokyo/A1319/A131905/13216529/
+3.88	3.88	3.61	別邸 音信	Betteiotozure	https://tabelog.com/tw/yamaguchi/A3503/A350302/35005327/
+3.87	3.75	3.88	饗 くろ喜	Motenashikuroki	https://tabelog.com/tw/tokyo/A1310/A131001/13127743/
+3.87	3.80	3.84	麺処ほん田	Mendokorohonda	https://tabelog.com/tw/tokyo/A1323/A132304/13047541/
+3.87	3.90	3.78	スパイスカフェ	SPICE Cafe	https://tabelog.com/tw/tokyo/A1312/A131203/13002935/
+3.87	3.66	3.89	ラーメン家 みつ葉	Mitsuba	https://tabelog.com/tw/nara/A2901/A290102/29006502/
+3.87	3.66	3.85	うなぎ料理 あつみ	unagiryouriatsumi	https://tabelog.com/tw/shizuoka/A2202/A220201/22000096/
+3.87	3.51	3.88	パリアッシュ	PARIS-h	https://tabelog.com/tw/osaka/A2701/A270108/27074010/
+3.87	3.74	3.82	ロックンビリーS1	Rokkumbirisupawan	https://tabelog.com/tw/hyogo/A2803/A280304/28040893/
+3.87	3.18	3.87	腰掛庵	Koshikakean	https://tabelog.com/tw/yamagata/A0605/A060501/6000084/
+3.87	3.87	-	ラ・ブーシェリー・デュ・ブッパ	La Boucherie du Buppa	https://tabelog.com/tw/tokyo/A1317/A131701/13018558/
+3.87	3.87	-	蒼天 南口店	Souten	https://tabelog.com/tw/tokyo/A1323/A132302/13092061/
+3.87	3.05	3.87	らーめん芝浜	Ramenshibahama	https://tabelog.com/tw/gunma/A1002/A100201/10014488/
+3.87	3.87	3.06	成吉思汗 大黒屋 5丁目支店	Jingisukandaikokuya	https://tabelog.com/tw/hokkaido/A0104/A010401/1027848/
+3.87	3.89	3.73	石臼挽き手打ち蕎麦 高はし	ishiusubikiteuchisabatakahashi	https://tabelog.com/tw/tokyo/A1319/A131906/13004378/
+3.87	3.85	3.67	レストラン 間	Resutoranaida	https://tabelog.com/tw/tokyo/A1303/A130302/13141463/
+3.87	3.90	3.65	クッチーナ イタリアーナ セルヴァッジョ	Cucina Italiana Selvaggio	https://tabelog.com/tw/aichi/A2301/A230104/23006127/
+3.87	3.74	3.77	Jean-Georges Tokyo	Jean-George Tokyo	https://tabelog.com/tw/tokyo/A1307/A130701/13166173/
+3.87	3.87	3.58	太田なわのれん	Ootanawanoren	https://tabelog.com/tw/kanagawa/A1401/A140104/14001847/
+3.87	3.90	3.54	サンルーカルバー	Sanlucar BAR	https://tabelog.com/tw/tokyo/A1309/A130905/13112228/
+3.87	3.96	3.70	Cucina Italiana 東洞	kuchi-naitaria-natoudou	https://tabelog.com/tw/kyoto/A2601/A260202/26007432/
+3.87	3.91	3.59	バーン・タム	Baan Tum	https://tabelog.com/tw/tokyo/A1304/A130404/13198074/
+3.87	3.85	3.64	ル・クープル	Le Couple 	https://tabelog.com/tw/chiba/A1203/A120301/12000296/
+3.87	3.89	3.56	ヴァン・ド・レーヴ	Vin de Reve	https://tabelog.com/tw/tokyo/A1301/A130101/13022678/
+3.87	3.87	3.12	エル ブランシュ	Aile Blanche	https://tabelog.com/tw/tokyo/A1307/A130702/13039093/
+3.87	3.83	3.80	レストラン・マッカリーナ	RESTAURANT maccarina	https://tabelog.com/tw/hokkaido/A0106/A010603/1000235/
+3.87	3.59	3.96	RISTORANTE YAGI	RISTORANTE YAGI	https://tabelog.com/tw/tokyo/A1303/A130303/13132568/
+3.87	3.87	-	カルバドール	Calvador	https://tabelog.com/tw/kyoto/A2601/A260201/26001936/
+3.87	3.86	3.68	大神	Ogami	https://tabelog.com/tw/kyoto/A2601/A260301/26000599/
+3.87	3.97	3.63	ヴァッカロッサ	VACCA ROSSA	https://tabelog.com/tw/tokyo/A1308/A130801/13156942/
+3.87	3.79	3.97	レガーロ	Regalo	https://tabelog.com/tw/tokyo/A1318/A131810/13057629/
+3.87	3.53	3.86	手打ち十割そば 振甫町 縁	teuchitowarisobashimpochouen	https://tabelog.com/tw/aichi/A2301/A230106/23050138/
+3.87	3.88	3.73	スダチ	Sudachi	https://tabelog.com/tw/tokyo/A1307/A130703/13175959/
+3.87	3.81	3.77	銀座 kappou ukai	Kappou Ukai	https://tabelog.com/tw/tokyo/A1301/A130103/13167887/
+3.87	3.87	3.01	花邑	Hanamura	https://tabelog.com/tw/tokyo/A1317/A131707/13003091/
+3.87	3.87	-	鮨 いとう	sushiitou	https://tabelog.com/tw/fukushima/A0704/A070401/7000924/
+3.87	3.87	-	もちづき	Mochiduki	https://tabelog.com/tw/aichi/A2301/A230113/23000794/
+3.87	3.84	3.73	つる由	Tsuruyoshi	https://tabelog.com/tw/nara/A2901/A290101/29000969/
+3.87	3.87	3.06	セルサルサーレ	sel sal sale	https://tabelog.com/tw/tokyo/A1303/A130302/13166739/
+3.87	3.86	3.76	アンビグラム	AMBIGRAM	https://tabelog.com/tw/tokyo/A1307/A130703/13144328/
+3.87	3.92	3.66	mal D'amour	Marudamuru	https://tabelog.com/tw/tokyo/A1313/A131306/13077948/
+3.87	3.87	-	鮨 つぼみ	Sushitsubomi	https://tabelog.com/tw/tokyo/A1317/A131701/13221782/
+3.87	3.85	3.61	鮨 おとわ	Sushiotowa	https://tabelog.com/tw/kanagawa/A1401/A140202/14042983/
+3.87	3.87	-	イル アオヤマ	il AOYAMA	https://tabelog.com/tw/aichi/A2301/A230104/23054325/
+3.87	3.87	-	夏零	Karin	https://tabelog.com/tw/tokyo/A1307/A130701/13224230/
+3.86	3.66	3.88	山元麺蔵	Yamamotomenzo	https://tabelog.com/tw/kyoto/A2601/A260301/26002504/
+3.86	3.27	3.86	麺屋吉左右	Menyakissou	https://tabelog.com/tw/tokyo/A1313/A131303/13021140/
+3.86	3.96	3.77	石臼挽き手打 蕎楽亭	ishiusuhikiteuchikyourakutei	https://tabelog.com/tw/tokyo/A1309/A130905/13000479/
+3.86	3.89	3.78	MASA’S KITCHEN 恵比寿	MASA'S KITCHEN47	https://tabelog.com/tw/tokyo/A1303/A130302/13054526/
+3.86	3.91	3.87	ラトリエ ドゥ ジョエル・ロブション	L'ATELIER de Joel Robuchon	https://tabelog.com/tw/tokyo/A1307/A130701/13005334/
+3.86	3.80	3.86	ぽん多本家	Pontahonke	https://tabelog.com/tw/tokyo/A1311/A131101/13003587/
+3.86	3.78	3.82	ロッダグループ	RODDA group	https://tabelog.com/tw/osaka/A2701/A270401/27056190/
+3.86	3.84	3.88	玄蕎麦 野中	Gensoba Nonaka	https://tabelog.com/tw/tokyo/A1321/A132102/13002725/
+3.86	3.84	3.65	又三郎 本店	Matasaburo Honten	https://tabelog.com/tw/osaka/A2701/A270404/27057397/
+3.86	3.00	3.86	信濃屋	Shinanoya	https://tabelog.com/tw/gifu/A2103/A210301/21000027/
+3.86	3.86	3.12	澤いち	Sawaichi	https://tabelog.com/tw/tokyo/A1307/A130701/13124236/
+3.86	3.95	3.57	川原町 泉屋	Kawaramachiizumiya	https://tabelog.com/tw/gifu/A2101/A210101/21000949/
+3.86	3.86	-	蔵六雄山	Zourokuyuuzan	https://tabelog.com/tw/tokyo/A1307/A130701/13139640/
+3.86	3.86	3.06	らんぷ亭	Ramputei	https://tabelog.com/tw/miyazaki/A4501/A450101/45000889/
+3.86	3.80	3.80	割烹 新多久	Kappoushintaku	https://tabelog.com/tw/niigata/A1505/A150504/15001790/
+3.86	3.86	3.06	焼肉 大貫	Yakinikuoonuki	https://tabelog.com/tw/tokyo/A1304/A130402/13191277/
+3.86	3.78	3.93	祇園もりわき	Giommoriwaki	https://tabelog.com/tw/kyoto/A2601/A260301/26024436/
+3.86	3.86	3.55	おおたに	Ootani	https://tabelog.com/tw/aichi/A2301/A230113/23050424/
+3.86	3.84	3.57	祇園 呂色	Gionroiro	https://tabelog.com/tw/kyoto/A2601/A260301/26029969/
+3.86	3.86	-	たきや	Takiya	https://tabelog.com/tw/tokyo/A1307/A130702/13185763/
+3.86	3.92	3.28	ポワン ドゥ デパー	Powandwudepa	https://tabelog.com/tw/tokyo/A1319/A131906/13207896/
+3.85	3.67	3.83	麺屋 彩未	menyasaimi	https://tabelog.com/tw/hokkaido/A0101/A010303/1000018/
+3.85	3.84	3.83	とんかつ檍 蒲田店	Aoki	https://tabelog.com/tw/tokyo/A1315/A131503/13114843/
+3.85	3.40	3.85	ベッカライ ビオブロート	BACKEREI BIOBROT	https://tabelog.com/tw/hyogo/A2803/A280302/28001945/
+3.85	3.59	3.89	町田汁場 しおらーめん進化	machidashirubashiora-menshinka	https://tabelog.com/tw/tokyo/A1327/A132701/13050023/
+3.85	3.73	3.80	燃えよ麺助	Moeyomensuke	https://tabelog.com/tw/osaka/A2701/A270108/27091454/
+3.85	3.04	3.85	うどん 一福	Udonippuku	https://tabelog.com/tw/kagawa/A3701/A370101/37001209/
+3.85	3.08	3.85	麺や 紡	menyatsumugu	https://tabelog.com/tw/osaka/A2706/A270604/27064537/
+3.85	3.23	3.85	ラヴニュー	L'AVENUE	https://tabelog.com/tw/hyogo/A2801/A280102/28033447/
+3.85	3.85	3.78	横濱元町 霧笛楼	Yokohamamotomachimutekirou	https://tabelog.com/tw/kanagawa/A1401/A140105/14001146/
+3.85	3.64	3.83	中華そば よしかわ	Chuukasobayoshikawa	https://tabelog.com/tw/saitama/A1104/A110401/11036997/
+3.85	3.83	3.80	幸楽	Kouraku	https://tabelog.com/tw/shizuoka/A2202/A220201/22000181/
+3.85	3.12	3.91	瓢亭 別館	Hyoutei	https://tabelog.com/tw/kyoto/A2601/A260301/26016565/
+3.85	3.79	3.82	小判寿司	Kobanzushi	https://tabelog.com/tw/miyagi/A0401/A040101/4000197/
+3.85	3.92	3.66	明神下 神田川 本店	myoujinshitakakandagawa	https://tabelog.com/tw/tokyo/A1310/A131002/13000346/
+3.85	3.76	3.85	Le Caneton	Rukaneton	https://tabelog.com/tw/osaka/A2701/A270204/27013084/
+3.85	3.77	3.84	SEN YO	Senyou	https://tabelog.com/tw/tokyo/A1319/A131904/13135036/
+3.85	3.77	3.78	とんかつ檍 銀座店	tonkatsuaoki	https://tabelog.com/tw/tokyo/A1301/A130101/13219635/
+3.85	3.67	3.79	大市	Daiichi	https://tabelog.com/tw/kyoto/A2601/A260203/26000493/
+3.85	3.85	-	石の華	Ishinohana	https://tabelog.com/tw/tokyo/A1303/A130301/13004802/
+3.85	3.84	3.70	京洛肉料理 いっしん	Kyourakunikuryouriisshin	https://tabelog.com/tw/kyoto/A2601/A260301/26003825/
+3.85	3.80	3.84	シェ オリビエ	Chez Olivier	https://tabelog.com/tw/tokyo/A1309/A130904/13097060/
+3.85	3.85	3.35	串たなか	Kushitanaka	https://tabelog.com/tw/kyoto/A2601/A260201/26000207/
+3.85	3.82	3.77	鮨　銀座　おのでら	Sushiginzaonodera	https://tabelog.com/tw/tokyo/A1301/A130101/13153824/
+3.85	3.85	-	トラットリアチッチョ	Trattoria Ciccio	https://tabelog.com/tw/tokyo/A1320/A132001/13166941/
+3.85	3.76	3.69	アンティカブラチェリアベッリターリア	Antica Braceria Bellitalia	https://tabelog.com/tw/tokyo/A1316/A131601/13149445/
+3.85	3.84	3.65	和やまむら	Wayamamura	https://tabelog.com/tw/nara/A2901/A290101/29000031/
+3.85	3.82	3.68	リオス ボングスタイオ	Riosubongusutaio	https://tabelog.com/tw/kanagawa/A1401/A140105/14055323/
+3.85	3.96	3.58	トラットリア ダイ パエサーニ	TRATTORIA DAI PAESANI	https://tabelog.com/tw/tokyo/A1305/A130503/13172879/
+3.85	3.24	3.86	川島豆腐店	Kawashimatoufuten	https://tabelog.com/tw/saga/A4102/A410201/41000027/
+3.85	3.83	3.82	エノテカラウラ	Enotekaraura	https://tabelog.com/tw/tokyo/A1309/A130905/13158552/
+3.85	3.85	-	a table	A table	https://tabelog.com/tw/tokyo/A1310/A131004/13156948/
+3.85	3.85	-	酒房しんせん	Shuboushinsen	https://tabelog.com/tw/hokkaido/A0101/A010103/1000002/
+3.85	3.62	3.87	ザ・ウィンザーホテル洞爺リゾート＆スパ	zawinza-hoterutouyarizo-toandosupa	https://tabelog.com/tw/hokkaido/A0108/A010801/1026196/
+3.85	3.80	3.70	楽心	Rakushin	https://tabelog.com/tw/osaka/A2701/A270108/27073089/
+3.85	3.12	3.85	うなぎの美鶴	Unaginomitsuru	https://tabelog.com/tw/kagoshima/A4601/A460101/46003010/
+3.85	3.85	-	りょうりにん みわ	Ryourinimmiwa	https://tabelog.com/tw/kanagawa/A1401/A140104/14004312/
+3.85	3.85	-	なかむら	Nakamura	https://tabelog.com/tw/kyoto/A2601/A260301/26018771/
+3.85	3.56	3.74	鮨裕	Sushiyutaka	https://tabelog.com/tw/kanagawa/A1404/A140406/14036846/
+3.85	3.85	-	マツシマ	Matsushima	https://tabelog.com/tw/tokyo/A1318/A131811/13195689/
+3.85	3.84	3.59	フレンチ サクラ	Furenchisakura	https://tabelog.com/tw/tokyo/A1330/A133002/13048601/
+3.85	3.85	-	割烹　梅津	Kappouumetsu	https://tabelog.com/tw/kyoto/A2601/A260301/26018077/
+3.85	3.58	3.96	Installation Table ENSO L'asymetrie du calme	Installation Table ENSO L'asymetrie du calme	https://tabelog.com/tw/ishikawa/A1701/A170101/17009914/
+3.85	3.84	3.24	魚会	Sakae	https://tabelog.com/tw/miyazaki/A4503/A450301/45001232/
+3.85	3.85	-	Ｊ一行樹	Jeikazuyuki	https://tabelog.com/tw/akita/A0501/A050101/5008063/
+3.84	3.61	3.80	ラ･メゾン･デュ･ショコラ 丸の内店	Ramezondhushokora	https://tabelog.com/tw/tokyo/A1301/A130102/13000036/
+3.84	3.84	3.06	せいもん払い	Seimonbarai	https://tabelog.com/tw/fukuoka/A4001/A400102/40000029/
+3.84	3.07	3.84	手打うどん たむら	teuchiudontamura	https://tabelog.com/tw/kagawa/A3702/A370202/37000077/
+3.84	3.66	3.79	吉田カレー 	Yoshidakare	https://tabelog.com/tw/tokyo/A1319/A131906/13132405/
+3.84	3.82	3.57	牛たん料理 閣 ブランドーム店	gyuutanryourikaku	https://tabelog.com/tw/miyagi/A0401/A040101/4000039/
+3.84	3.78	3.83	らーめん鱗 茨木店	Ramenuroko	https://tabelog.com/tw/osaka/A2706/A270604/27077480/
+3.84	3.58	3.80	手打ち蕎麦 かね井	teuchisobakanei	https://tabelog.com/tw/kyoto/A2601/A260503/26001676/
+3.84	3.28	3.84	一幸庵	Ikkouan	https://tabelog.com/tw/tokyo/A1323/A132302/13005076/
+3.84	3.84	3.52	黒猫夜 六本木店	Kuronekoyoru	https://tabelog.com/tw/tokyo/A1307/A130701/13115202/
+3.84	3.87	3.61	龍口酒家 本店	Ronkouchuucha	https://tabelog.com/tw/tokyo/A1318/A131807/13004350/
+3.84	3.18	3.84	ピュイサンス	PUISSANCE	https://tabelog.com/tw/kanagawa/A1401/A140202/14003354/
+3.84	3.84	-	豚小家	Butagoya	https://tabelog.com/tw/tokyo/A1312/A131204/13032535/
+3.84	3.84	3.06	多来多来	Takutaku	https://tabelog.com/tw/kyoto/A2607/A260702/26002078/
+3.84	3.73	3.83	麺や福はら	Menyafukuhara	https://tabelog.com/tw/osaka/A2701/A270306/27099659/
+3.84	3.71	3.85	メゾン・ド・タカ 芦屋	Mezondojiru	https://tabelog.com/tw/hyogo/A2803/A280302/28025572/
+3.84	3.75	3.80	旬彩天 つちや	Shunsaitentsuchiya	https://tabelog.com/tw/osaka/A2706/A270602/27017728/
+3.84	3.84	3.57	肉料理　荒川	Arakawa	https://tabelog.com/tw/kyoto/A2601/A260201/26006491/
+3.84	3.83	3.59	鮨 生粋	Sushikissui	https://tabelog.com/tw/hyogo/A2801/A280105/28006305/
+3.84	3.67	3.76	ヴィラ・アイーダ	Viraaida	https://tabelog.com/tw/wakayama/A3001/A300102/30000104/
+3.84	3.66	3.86	レストラン オカダ	OKADA	https://tabelog.com/tw/tokyo/A1307/A130703/13122286/
+3.84	3.88	3.59	フォセッタ	Fossetta	https://tabelog.com/tw/kanagawa/A1404/A140402/14000283/
+3.84	3.74	3.79	TERROIR Kawabata	terowa-rukawabata	https://tabelog.com/tw/tokyo/A1310/A131002/13173446/
+3.84	3.91	3.56	レストランユニック	restaurant unique	https://tabelog.com/tw/tokyo/A1316/A131601/13163184/
+3.84	3.84	-	ホルモン船　ホールちゃん	Horumonsenhoruchan	https://tabelog.com/tw/tokyo/A1304/A130401/13113717/
+3.84	3.78	3.79	リストランテ ペガソ	RISTORANTE PEGASO	https://tabelog.com/tw/tokyo/A1307/A130703/13152248/
+3.84	3.68	3.75	ビートイート	Beet eat	https://tabelog.com/tw/tokyo/A1318/A131814/13196455/
+3.84	3.76	3.90	ゴーシェ	Gaucher	https://tabelog.com/tw/tokyo/A1307/A130701/13175346/
+3.84	3.77	3.81	祇園 なん波	Gionnamba	https://tabelog.com/tw/kyoto/A2601/A260301/26006220/
+3.84	3.84	3.59	イルトラム	il tram 	https://tabelog.com/tw/tokyo/A1313/A131303/13157110/
+3.84	3.84	-	S”ACCAPAU	S`accapau	https://tabelog.com/tw/tokyo/A1307/A130701/13195700/
+3.84	3.83	3.11	焼鳥 みずき	yakitorimizuki	https://tabelog.com/tw/gifu/A2101/A210101/21012245/
+3.84	3.84	-	こいで	Koide	https://tabelog.com/tw/ishikawa/A1701/A170101/17001005/
+3.84	3.83	3.73	リナシメント	RINASCIMENTO	https://tabelog.com/tw/tokyo/A1316/A131601/13201061/
+3.84	3.83	3.58	べにや無何有	Beniyamukayuu	https://tabelog.com/tw/ishikawa/A1702/A170201/17000955/
+3.84	3.84	-	くう	Kuu	https://tabelog.com/tw/tokyo/A1323/A132302/13015797/
+3.84	-	3.84	晴耕雨読	Seikouudoku	https://tabelog.com/tw/kyoto/A2607/A260701/26030760/
+3.84	3.87	3.61	釜津田	kamatsuda	https://tabelog.com/tw/tokyo/A1307/A130702/13179015/
+3.84	3.83	3.61	陶然亭	Touzentei	https://tabelog.com/tw/kyoto/A2601/A260301/26002334/
+3.84	3.83	3.93	銀座 レストラン オザミ	GINZA Restaurant AUX AMIS	https://tabelog.com/tw/tokyo/A1301/A130101/13195755/
+3.84	3.84	-	魚虎	Uotora	https://tabelog.com/tw/fukuoka/A4004/A400404/40021924/
+3.84	4.00	3.56	ルディック	Ludique	https://tabelog.com/tw/tokyo/A1311/A131102/13203326/
+3.84	3.84	-	きく家	Kikuya	https://tabelog.com/tw/ishikawa/A1701/A170101/17008099/
+3.84	3.76	3.69	寿司 竹本	Sushitakemoto	https://tabelog.com/tw/fukuoka/A4004/A400401/40004326/
+3.84	3.79	3.74	ククセモワ	Coucouc'est moi	https://tabelog.com/tw/tokyo/A1310/A131004/13136039/
+3.84	3.75	3.71	銀座 やまの辺 江戸中華	ginzayamanobeedochuuka	https://tabelog.com/tw/tokyo/A1301/A130103/13185963/
+3.84	3.83	3.61	祥雲	shouun	https://tabelog.com/tw/okayama/A3301/A330101/33012416/
+3.84	3.84	-	鮨木場谷	Sushikibatani	https://tabelog.com/tw/ishikawa/A1701/A170101/17010062/
+3.84	3.84	-	くりや	Kuriya	https://tabelog.com/tw/hokkaido/A0101/A010301/1013145/
+3.84	3.73	3.51	レゼールデカー	Les Ailes des K	https://tabelog.com/tw/tokyo/A1323/A132302/13155158/
+3.84	3.95	3.57	湖国料理　やまじん	Kokokuryouriyamajin	https://tabelog.com/tw/shiga/A2503/A250301/25006224/
+3.83	3.67	3.83	うさぎや	Usagiya	https://tabelog.com/tw/tokyo/A1311/A131101/13003599/
+3.83	3.59	3.83	マルイチベーグル	MARUICHI BAGEL	https://tabelog.com/tw/tokyo/A1316/A131602/13010793/
+3.83	3.87	3.82	とんかつ やまいち	Tonkatsuyamaichi	https://tabelog.com/tw/tokyo/A1310/A131002/13042246/
+3.83	3.62	3.85	Patisserie Ravi,e relier	Pathisuriravirurie	https://tabelog.com/tw/osaka/A2701/A270103/27044987/
+3.83	3.31	3.83	埜庵	Noan	https://tabelog.com/tw/kanagawa/A1404/A140403/14002792/
+3.83	3.09	3.83	いち井	Ichii	https://tabelog.com/tw/niigata/A1502/A150201/15000043/
+3.83	3.66	3.82	パティスリー プレジール	Patisserie Plaisir	https://tabelog.com/tw/tokyo/A1317/A131706/13045491/
+3.83	3.84	3.67	オーベルジュ・ド・リル トーキョー	Oberujudorirutokyo	https://tabelog.com/tw/tokyo/A1307/A130701/13048701/
+3.83	3.33	3.83	ラ・ペッシュ	La Peche	https://tabelog.com/tw/nara/A2905/A290501/29004292/
+3.83	3.84	3.59	クチーナ ヒラタ	Kuchinahirata	https://tabelog.com/tw/tokyo/A1307/A130702/13001690/
+3.83	3.83	3.76	喜寿司	Kizushi	https://tabelog.com/tw/tokyo/A1302/A130204/13003041/
+3.83	3.53	3.83	めん奏心	Mensoushin	https://tabelog.com/tw/shizuoka/A2203/A220302/22019502/
+3.83	3.75	3.77	ラ・ビュット・ボワゼ	Rabittobowaze	https://tabelog.com/tw/tokyo/A1317/A131703/13003102/
+3.83	3.88	3.72	CINA New Modern Chinese	CINA New Modern Chinese	https://tabelog.com/tw/tokyo/A1303/A130302/13200117/
+3.83	3.84	3.53	OTTO SETTE 星野リゾート リゾナーレ八ヶ岳	OTTO SETTE	https://tabelog.com/tw/yamanashi/A1902/A190201/19000325/
+3.83	3.83	-	龍園	Ryuen	https://tabelog.com/tw/iwate/A0303/A030302/3000006/
+3.83	3.77	3.94	赤寶亭	Sekihotei	https://tabelog.com/tw/tokyo/A1306/A130603/13014273/
+3.83	3.83	-	季旬 鈴なり	Kishunsuzunari	https://tabelog.com/tw/tokyo/A1309/A130903/13023513/
+3.83	3.83	-	華丸吉日	Hanamarukichijitsu	https://tabelog.com/tw/aichi/A2301/A230103/23037571/
+3.83	3.59	3.94	三友居 高輪店	Sanyuukyo	https://tabelog.com/tw/tokyo/A1316/A131603/13113088/
+3.83	3.83	3.06	クスクス　ルージール	couscous Rougir	https://tabelog.com/tw/tokyo/A1318/A131802/13144838/
+3.83	3.83	3.06	鮓職人 秦野よしき	sushishokuninhatanoyoshiki	https://tabelog.com/tw/tokyo/A1307/A130702/13158874/
+3.83	3.90	3.24	磯はん	Isohan	https://tabelog.com/tw/tokyo/A1319/A131907/13044277/
+3.83	3.83	-	鮨 村上二郎	Sushimurakamijirou	https://tabelog.com/tw/osaka/A2701/A270101/27078821/
+3.83	3.81	3.61	すし処 みや古分店	Sushidokoromiyakowakemise	https://tabelog.com/tw/tokyo/A1323/A132305/13046671/
+3.83	3.84	3.03	セーエヌエフ　マルコンソール	Seenuefumarukonsoru	https://tabelog.com/tw/aichi/A2301/A230103/23032011/
+3.83	3.66	3.76	うな善	Unazen	https://tabelog.com/tw/fukuoka/A4001/A400104/40005813/
+3.83	3.83	-	鮨 てる	Sushiteru	https://tabelog.com/tw/tokyo/A1309/A130903/13096927/
+3.83	3.88	3.58	ラ・バイア 	rabaia	https://tabelog.com/tw/tokyo/A1302/A130202/13201429/
+3.83	3.82	3.51	や寿し	Yasushi	https://tabelog.com/tw/aichi/A2301/A230101/23038625/
+3.83	3.82	3.61	九兵衛旅館	Kuheeryokan	https://tabelog.com/tw/yamagata/A0603/A060302/6005993/
+3.83	3.81	3.51	天冨良 いわ井	Tempuraiwai	https://tabelog.com/tw/tokyo/A1301/A130101/13183675/
+3.83	3.73	3.71	こまつ	Komatsu	https://tabelog.com/tw/hokkaido/A0101/A010105/1047890/
+3.83	3.76	3.76	東	Higashi	https://tabelog.com/tw/fukuoka/A4001/A400104/40043640/
+3.83	3.83	-	勝しん	Katsushin	https://tabelog.com/tw/miyazaki/A4501/A450101/45000891/
+3.82	3.89	3.72	あつた蓬莱軒 本店	Atsutahouraiken	https://tabelog.com/tw/aichi/A2301/A230112/23000063/
+3.82	3.53	3.82	バックシュトゥーベ ツオップ	Backstube Zopf	https://tabelog.com/tw/chiba/A1203/A120302/12000514/
+3.82	3.62	3.80	シニフィアン シニフィエ 日本橋タカシマヤ店	Signifiant Signifie	https://tabelog.com/tw/tokyo/A1302/A130202/13054419/
+3.82	3.79	3.73	麺処 晴	Mendokoroharu	https://tabelog.com/tw/tokyo/A1311/A131104/13143115/
+3.82	3.63	3.78	讃岐うどん 白庵	Byakuan	https://tabelog.com/tw/osaka/A2701/A270302/27014852/
+3.82	3.84	3.54	徳多和良	Tokudawara	https://tabelog.com/tw/tokyo/A1324/A132402/13008682/
+3.82	3.84	3.75	ルグドゥノム ブション リヨネ	Lugdunum Bouchon Lyonnais	https://tabelog.com/tw/tokyo/A1309/A130905/13043985/
+3.82	3.73	3.75	竹末東京Premium	takematsutoukyoupuremiamu	https://tabelog.com/tw/tokyo/A1312/A131203/13167920/
+3.82	3.83	3.73	小笠原伯爵邸	Ogasawarahakushakutei	https://tabelog.com/tw/tokyo/A1305/A130504/13000998/
+3.82	3.72	3.82	かんたろう	Kantarou	https://tabelog.com/tw/shizuoka/A2202/A220201/22000099/
+3.82	3.09	3.82	パティスリー タンドレス	Pathisuritandoresu	https://tabelog.com/tw/kyoto/A2601/A260303/26003706/
+3.82	3.82	-	銀座バードランド	ginzaba-dorando	https://tabelog.com/tw/tokyo/A1301/A130101/13004097/
+3.82	3.53	3.85	一文字カリー店	Ichimonjikariten	https://tabelog.com/tw/hokkaido/A0101/A010301/1024063/
+3.82	3.77	3.82	クーカーニョ	COUCAGNO	https://tabelog.com/tw/tokyo/A1303/A130301/13001905/
+3.82	3.64	3.80	玄	Gen	https://tabelog.com/tw/nara/A2901/A290101/29000052/
+3.82	3.82	-	正泰苑 総本店	Shoutaien	https://tabelog.com/tw/tokyo/A1324/A132401/13003776/
+3.82	3.80	3.71	ビストラン エレネスク	Bistaurant RNSQ	https://tabelog.com/tw/tokyo/A1307/A130702/13100545/
+3.82	3.82	-	善道	ZENDO	https://tabelog.com/tw/osaka/A2701/A270101/27065615/
+3.82	3.82	3.02	さつま	Satsuma	https://tabelog.com/tw/osaka/A2701/A270101/27006074/
+3.82	3.80	3.63	老虎菜	Raofutsui	https://tabelog.com/tw/hyogo/A2801/A280105/28022858/
+3.82	3.67	3.90	鮨まつもと	Sushimatsumoto	https://tabelog.com/tw/kyoto/A2601/A260301/26002579/
+3.82	3.82	3.04	しんぽ	Shimpo	https://tabelog.com/tw/tokyo/A1319/A131907/13017401/
+3.82	3.82	3.05	スタア・バー・ギンザ	STAR BAR GINZA	https://tabelog.com/tw/tokyo/A1301/A130101/13002270/
+3.82	3.68	3.80	露庵 菊乃井 木屋町店	Roankikunoi	https://tabelog.com/tw/kyoto/A2601/A260201/26000766/
+3.82	3.67	3.85	クラリタ ダ マリッティマ	clarita da marittima	https://tabelog.com/tw/kanagawa/A1404/A140403/14015527/
+3.82	3.82	-	焼肉 グルマンズいとう	yakinikugurumanzuitou	https://tabelog.com/tw/hokkaido/A0101/A010103/1037834/
+3.82	3.82	-	ラ シャッス	LA CHASSE	https://tabelog.com/tw/tokyo/A1307/A130701/13025071/
+3.82	3.82	3.71	大塚高勢	Ootsukatakase	https://tabelog.com/tw/tokyo/A1323/A132302/13012385/
+3.82	3.80	3.52	居酒屋　ちょーちょ	Izakayachocho	https://tabelog.com/tw/miyagi/A0401/A040101/4014402/
+3.82	3.82	3.41	トラットリア 29	torattoriaventhino-ve	https://tabelog.com/tw/tokyo/A1319/A131907/13122412/
+3.82	3.76	3.83	ビブレ	bi.ble	https://tabelog.com/tw/hokkaido/A0104/A010403/1045166/
+3.82	-	3.82	きむら	Kimura	https://tabelog.com/tw/hokkaido/A0106/A010601/1026047/
+3.82	3.82	-	一即夛	Isshokutaissokutaichisokuta	https://tabelog.com/tw/tokyo/A1307/A130701/13023340/
+3.82	3.78	3.78	ヴァカンツァ	VACANZA	https://tabelog.com/tw/hyogo/A2801/A280101/28026242/
+3.82	3.58	3.96	ナイン ストーリーズ	9 STORIES	https://tabelog.com/tw/tokyo/A1318/A131811/13170238/
+3.82	3.82	3.55	ラ・メール	rame-ru	https://tabelog.com/tw/mie/A2403/A240303/24005111/
+3.82	3.82	-	焼鳥 山もと	Yakitoriyamamoto	https://tabelog.com/tw/tokyo/A1320/A132002/13187433/
+3.82	3.58	3.87	ル モンド グルマン	Le Monde Gourmand	https://tabelog.com/tw/tokyo/A1317/A131703/13187979/
+3.82	3.82	-	火鍋 三田	hinabemita	https://tabelog.com/tw/tokyo/A1316/A131602/13201676/
+3.82	3.76	3.91	日本料理 e.	Nihonryouriipiriodo	https://tabelog.com/tw/miyagi/A0401/A040101/4016108/
+3.82	3.81	3.58	日本橋逢坂	Nihombashiousaka	https://tabelog.com/tw/tokyo/A1302/A130202/13180559/
+3.82	3.77	3.83	鮨 福原	Fukuhara	https://tabelog.com/tw/kanagawa/A1405/A140505/14045888/
+3.82	3.77	3.68	五十嵐	Igarashi	https://tabelog.com/tw/hokkaido/A0101/A010102/1044550/
+3.82	3.77	3.33	二代目 佐平次	Nidaimesaheiji	https://tabelog.com/tw/hokkaido/A0105/A010501/1010526/
+3.82	3.79	3.63	郷土味 かけはし	Kyoudoajikakehashi	https://tabelog.com/tw/hiroshima/A3403/A340302/34011875/
+3.82	3.82	-	Txiki Plaka	Txiki Plaka	https://tabelog.com/tw/tokyo/A1301/A130103/13215737/
+3.82	3.82	-	トラットリア トマティカ	Torattoriatomathika	https://tabelog.com/tw/tokyo/A1303/A130302/13166253/
+3.82	3.82	-	眞	Masaki	https://tabelog.com/tw/hokkaido/A0101/A010105/1010137/
+3.81	3.81	3.07	だるま 本店	Daruma	https://tabelog.com/tw/hokkaido/A0101/A010103/1000007/
+3.81	3.73	3.91	五代目 野田岩 麻布飯倉本店	Godaime Nodaiwa	https://tabelog.com/tw/tokyo/A1314/A131401/13002789/
+3.81	3.59	3.82	パティスリー カーヴァンソン	patisserie K.ViNCENT	https://tabelog.com/tw/tokyo/A1309/A130905/13035194/
+3.81	3.79	3.63	きらく亭	Kirakutei	https://tabelog.com/tw/tokyo/A1307/A130703/13007145/
+3.81	3.76	3.79	のもと家	Nomotoya	https://tabelog.com/tw/tokyo/A1314/A131401/13170377/
+3.81	3.80	3.68	中国飯店 六本木店	Chuugokuhanten	https://tabelog.com/tw/tokyo/A1307/A130701/13001954/
+3.81	3.23	3.80	Poche du Reve 芦屋	Posshudorevuashiya	https://tabelog.com/tw/hyogo/A2803/A280302/28012993/
+3.81	3.38	3.82	パーラー江古田	Paraekoda	https://tabelog.com/tw/tokyo/A1321/A132101/13185945/
+3.81	3.63	3.82	レストラン　ヒロミチ	Resutoranhiromichi	https://tabelog.com/tw/tokyo/A1303/A130302/13090587/
+3.81	3.66	3.76	らぁ麺 飛鶏	Ramenasuka	https://tabelog.com/tw/aichi/A2303/A230301/23051026/
+3.81	3.61	3.80	寿製麺 よしかわ	Kotobukiseimenyoshikawa	https://tabelog.com/tw/saitama/A1103/A110303/11040851/
+3.81	-	3.89	宇豆基野 本店	Uzukino	https://tabelog.com/tw/tokyo/A1324/A132402/13135449/
+3.81	3.75	3.68	粟 ならまち店	Awa	https://tabelog.com/tw/nara/A2901/A290101/29001643/
+3.81	3.81	-	EST!	Esuto	https://tabelog.com/tw/tokyo/A1311/A131101/13003582/
+3.81	3.74	3.75	金谷 本店	Kanaya	https://tabelog.com/tw/mie/A2404/A240401/24000003/
+3.81	3.81	3.05	ロッキングチェア	Bar Rocking chair	https://tabelog.com/tw/kyoto/A2601/A260201/26007698/
+3.81	3.80	3.64	よねさん	Yonesan	https://tabelog.com/tw/tokyo/A1312/A131202/13176407/
+3.81	3.81	3.01	小田島	Odajima	https://tabelog.com/tw/tokyo/A1307/A130701/13001178/
+3.81	3.59	3.77	一東菴	Ittouan	https://tabelog.com/tw/tokyo/A1323/A132304/13143622/
+3.81	3.80	3.53	ボン・ピナール	Bon Pinard	https://tabelog.com/tw/tokyo/A1307/A130703/13022051/
+3.81	3.79	3.66	日々魚数寄 東木	Hibisakanazukitouboku	https://tabelog.com/tw/ishikawa/A1701/A170101/17007935/
+3.81	3.81	3.54	俵屋旅館	Tawaraya	https://tabelog.com/tw/kyoto/A2601/A260202/26002127/
+3.81	3.81	-	金蔦	Kintsuta	https://tabelog.com/tw/fukuoka/A4001/A400103/40006459/
+3.81	3.73	3.77	割烹 利助	Kappo Risuke	https://tabelog.com/tw/nara/A2903/A290302/29004030/
+3.81	3.50	3.90	ラ・ボッテガ・ゴローザ	LA BOTTEGA GOLOSA	https://tabelog.com/tw/kanagawa/A1410/A141002/14037123/
+3.81	3.81	-	一番町　てる也	Teruya	https://tabelog.com/tw/tokyo/A1308/A130803/13136559/
+3.81	3.60	4.05	祇園 鮨 忠保	Gionsushitadayasu	https://tabelog.com/tw/kyoto/A2601/A260301/26029012/
+3.81	3.69	4.03	くずし懐石 縁	En	https://tabelog.com/tw/kyoto/A2601/A260202/26000475/
+3.81	3.58	3.93	レストラン エクロール	RESTAURANT ECLORE	https://tabelog.com/tw/tokyo/A1313/A131301/13002375/
+3.81	3.96	3.52	東家	Azumaya	https://tabelog.com/tw/tokyo/A1301/A130101/13126819/
+3.81	3.81	-	バー キュラソー	BAR Curacao	https://tabelog.com/tw/aichi/A2301/A230103/23061359/
+3.81	3.73	3.61	うなぎ 赤坂 勢きね	Unagiakasakasekine	https://tabelog.com/tw/tokyo/A1307/A130701/13039787/
+3.81	3.81	3.50	十勝川温泉 三余庵	Tokachigawaonsensanyoan	https://tabelog.com/tw/hokkaido/A0111/A011102/1006355/
+3.81	3.78	3.55	多仁本	Tanimoto	https://tabelog.com/tw/tokyo/A1309/A130903/13207060/
+3.81	3.76	3.72	青華こばやし	Seikakobayashi	https://tabelog.com/tw/tokyo/A1309/A130903/13193077/
+3.81	3.80	3.50	栞庵 やましろ	Shiorian Yamashiro	https://tabelog.com/tw/tokyo/A1301/A130101/13154719/
+3.81	3.81	-	バー レガシー	BAR LEGACY	https://tabelog.com/tw/tokyo/A1303/A130301/13190901/
+3.80	3.70	3.81	VIRON 渋谷店	Viron	https://tabelog.com/tw/tokyo/A1303/A130301/13004626/
+3.80	3.72	3.79	銀座 久兵衛 銀座本店	Ginzakyuubee	https://tabelog.com/tw/tokyo/A1301/A130103/13002611/
+3.80	3.70	3.80	人類みな麺類	Jinruiminamenrui	https://tabelog.com/tw/osaka/A2701/A270301/27064584/
+3.80	3.61	3.80	中華そば多賀野	chuukasobatakano	https://tabelog.com/tw/tokyo/A1317/A131712/13003421/
+3.80	3.42	3.82	とら食堂	Torashokudou	https://tabelog.com/tw/fukushima/A0703/A070301/7000016/
+3.80	3.65	3.84	とんかつ檍 大門店	tonkatsuaoki	https://tabelog.com/tw/tokyo/A1314/A131401/13190933/
+3.80	3.96	3.70	レストラン・サカキ	RESTAURANT SAKAKI	https://tabelog.com/tw/tokyo/A1302/A130202/13002443/
+3.80	3.68	3.75	らぁ麺 すぎ本	Ramensugimoto	https://tabelog.com/tw/tokyo/A1321/A132104/13163409/
+3.80	3.55	3.75	清水港　みなみ 	Shimizukouminami	https://tabelog.com/tw/shizuoka/A2201/A220101/22016103/
+3.80	3.80	3.12	たんか	TANCA	https://tabelog.com/tw/fukuoka/A4001/A400103/40021035/
+3.80	3.80	3.06	バー・バーンズ	Babanzu	https://tabelog.com/tw/aichi/A2301/A230102/23000103/
+3.80	3.85	3.78	ラ・トリプレッタ	La TRIPLETTA	https://tabelog.com/tw/tokyo/A1317/A131710/13165472/
+3.80	3.78	3.82	ナポリピッツァ Pizzeria la Rossa	Naporipittsupittsuriararossa	https://tabelog.com/tw/tokyo/A1317/A131702/13130666/
+3.80	3.81	3.07	かんだ光壽	Kandakouju	https://tabelog.com/tw/tokyo/A1310/A131002/13011272/
+3.80	3.44	3.79	たま木亭	Tamakitei	https://tabelog.com/tw/kyoto/A2607/A260701/26025957/
+3.80	3.97	3.60	ロットチェント	L'ottocento	https://tabelog.com/tw/tokyo/A1302/A130203/13198683/
+3.80	3.80	3.06	埼玉屋	Saitamaya	https://tabelog.com/tw/tokyo/A1323/A132304/13003792/
+3.80	3.82	3.79	Le Bol	Le Bol	https://tabelog.com/tw/aichi/A2301/A230105/23009254/
+3.80	3.70	3.85	モノリス	MONOLITH	https://tabelog.com/tw/tokyo/A1303/A130301/13108686/
+3.80	3.80	3.06	和風もつ料理 あらた	Wafuumotsuryouriarata	https://tabelog.com/tw/osaka/A2701/A270301/27012977/
+3.80	3.80	3.72	弁天山美家古寿司	Bentenyamamiyakozushi	https://tabelog.com/tw/tokyo/A1311/A131102/13003694/
+3.80	3.72	3.81	エミリア	EMILIA	https://tabelog.com/tw/tokyo/A1306/A130601/13099554/
+3.80	3.80	3.59	鳥彌三	Toriyasa	https://tabelog.com/tw/kyoto/A2601/A260201/26000764/
+3.80	3.80	-	バー オスカー	Bar Oscar	https://tabelog.com/tw/fukuoka/A4001/A400104/40000009/
+3.80	3.68	3.82	ボンシュマン	Bonshuman	https://tabelog.com/tw/tokyo/A1317/A131702/13003431/
+3.80	3.80	-	つくしのこ	Tsukushinoko	https://tabelog.com/tw/tokyo/A1317/A131705/13019231/
+3.80	3.79	3.59	バンゲラズ キッチン	Bangera's Kitchen	https://tabelog.com/tw/tokyo/A1301/A130101/13217211/
+3.80	3.80	3.05	鮎正	Ayumasa	https://tabelog.com/tw/tokyo/A1301/A130103/13001495/
+4.95	4.90	4.88	松川	Matsukawa	https://tabelog.com/tw/tokyo/A1307/A130701/13124391/
+4.89	4.81	4.86	鮨 さいとう	Saito	https://tabelog.com/tw/tokyo/A1308/A130802/13015251/
+4.86	4.85	4.36	銀座 しのはら	Shinohara	https://tabelog.com/tw/tokyo/A1301/A130101/13200949/
+4.84	4.79	4.80	日本橋蛎殻町 すぎた	Sugita	https://tabelog.com/tw/tokyo/A1302/A130204/13018162/
+4.83	4.72	4.75	フォリオリーナ・デッラ・ポルタ・フォルトゥーナ	Fogliolina della Porta Fortuna	https://tabelog.com/tw/nagano/A2003/A200301/20011920/
+4.79	4.80	4.51	カンテサンス	Quintessence	https://tabelog.com/tw/tokyo/A1314/A131405/13159567/
+4.76	4.76	3.09	本湖月	Honkogetsu	https://tabelog.com/tw/osaka/A2701/A270202/27001286/
+4.75	4.77	4.53	京味	Kyoaji	https://tabelog.com/tw/tokyo/A1301/A130103/13002887/
+4.74	4.60	4.64	柳家	Yanagiya	https://tabelog.com/tw/gifu/A2103/A210301/21000023/
+4.74	4.74	4.62	エクアトゥール	Restaurant l'equateur	https://tabelog.com/tw/tokyo/A1307/A130702/13121866/
+4.73	4.73	-	にい留	niitome	https://tabelog.com/tw/aichi/A2301/A230104/23050337/
+4.71	4.75	3.54	SUGALABO	SUGALABO	https://tabelog.com/tw/tokyo/A1307/A130704/13182678/
+4.69	4.62	4.63	草喰 なかひがし	Soujiki Nakahigashi	https://tabelog.com/tw/kyoto/A2601/A260302/26001800/
+4.68	4.70	4.68	トゥ・ラ・ジョア	Tout la Joie	https://tabelog.com/tw/aichi/A2301/A230105/23033296/
+4.67	4.67	3.74	緒方	Ogata	https://tabelog.com/tw/kyoto/A2601/A260201/26012136/
+4.66	4.65	3.56	未在	Mizai	https://tabelog.com/tw/kyoto/A2601/A260301/26002279/
+4.66	4.66	-	ペレグリーノ	PELLEGRINO	https://tabelog.com/tw/tokyo/A1303/A130302/13072775/
+4.64	4.66	-	にくの匠 三芳	Miyoshi	https://tabelog.com/tw/kyoto/A2601/A260301/26002222/
+4.64	4.64	-	鮨 はしぐち	Hashiguchi	https://tabelog.com/tw/tokyo/A1308/A130801/13134517/
+4.62	4.46	4.67	レフェルヴェソンス	L'Effervescence	https://tabelog.com/tw/tokyo/A1306/A130602/13116356/
+4.62	4.64	3.06	旬席 鈴江	Suzue	https://tabelog.com/tw/kyoto/A2601/A260301/26014309/
+4.62	4.62	-	飯田	Iida	https://tabelog.com/tw/kyoto/A2601/A260202/26016833/
+4.62	4.62	-	フルタ	Furuta	https://tabelog.com/tw/tokyo/A1313/A131301/13176780/
+4.61	4.61	3.55	寿しの吉乃	Sushi no Yoshino	https://tabelog.com/tw/aichi/A2301/A230103/23047555/
+4.61	4.55	4.33	CHIUnE	CHIUnE	https://tabelog.com/tw/tokyo/A1301/A130101/13203796/
+4.61	4.63	3.09	と村	Tomura	https://tabelog.com/tw/tokyo/A1308/A130802/13005027/
+4.60	4.60	-	趙楊	Choyo	https://tabelog.com/tw/tokyo/A1301/A130103/13172920/
+4.60	4.60	-	味満ん	Ajiman	https://tabelog.com/tw/tokyo/A1307/A130701/13001332/
+4.59	4.61	3.55	SATOブリアン にごう	SATO Buriand	https://tabelog.com/tw/tokyo/A1319/A131905/13159782/
+4.58	4.62	3.98	カセント	Ca sento	https://tabelog.com/tw/hyogo/A2801/A280102/28009509/
+4.58	4.58	-	虎白	Kohaku	https://tabelog.com/tw/tokyo/A1309/A130905/13049130/
+4.58	4.45	4.62	三谷	Mitani	https://tabelog.com/tw/tokyo/A1309/A130902/13042204/
+4.57	4.57	3.15	鳥しき	Torishiki	https://tabelog.com/tw/tokyo/A1316/A131601/13041029/
+4.57	4.45	4.45	エスキス	ESqUISSE	https://tabelog.com/tw/tokyo/A1301/A130101/13142530/
+4.57	4.39	4.53	比良山荘	Hirasansou	https://tabelog.com/tw/shiga/A2501/A250101/25000772/
+4.56	4.56	3.04	かぶと	Kabuto	https://tabelog.com/tw/tokyo/A1305/A130501/13016660/
+4.55	4.54	-	前田	Maeda	https://tabelog.com/tw/kyoto/A2601/A260301/26020923/
+4.54	4.54	4.52	日本料理 たかむら	Takamura	https://tabelog.com/tw/akita/A0501/A050101/5000664/
+4.54	4.54	3.54	らん亭～ 美日庵	Ranteibibian	https://tabelog.com/tw/fukushima/A0702/A070201/7000278/
+4.53	4.46	4.57	天寿し 京町店	Tenzushi Kyomachi	https://tabelog.com/tw/fukuoka/A4004/A400401/40000721/
+4.53	4.42	4.47	日の出	Hinode	https://tabelog.com/tw/mie/A2402/A240203/24000026/
+4.53	4.48	4.54	虎屋 壺中庵	Toraya Kochuan	https://tabelog.com/tw/tokushima/A3601/A360104/36000369/
+4.53	4.44	4.41	やまぐち	Yamaguchi	https://tabelog.com/tw/kyoto/A2601/A260301/26018397/
+4.52	4.53	4.41	茶禅華	Sazenka	https://tabelog.com/tw/tokyo/A1307/A130703/13205298/
+4.52	4.49	3.98	鮨 一幸	Sushi Ikko	https://tabelog.com/tw/hokkaido/A0101/A010102/1044489/
+4.52	4.52	4.47	もりかわ	Morikawa	https://tabelog.com/tw/tokyo/A1308/A130801/13002772/
+4.51	4.53	-	東麻布 天本	Amamoto	https://tabelog.com/tw/tokyo/A1314/A131401/13196420/
+4.51	4.51	-	鮨 さかい	Sakai	https://tabelog.com/tw/fukuoka/A4001/A400103/40034544/
+4.51	4.25	4.58	齋華	Saika	https://tabelog.com/tw/kyoto/A2601/A260304/26023771/
+4.51	4.50	3.57	長谷川 稔	Hasegawaminoru	https://tabelog.com/tw/tokyo/A1307/A130703/13220575/
+4.50	4.46	4.38	ガストロノミー ジョエル・ロブション	Joel Robuchon	https://tabelog.com/tw/tokyo/A1303/A130302/13009310/
+4.49	4.23	4.50	すし処 ひさ田	Hisada	https://tabelog.com/tw/okayama/A3301/A330104/33000059/
+4.49	4.49	3.06	蕃 YORONIKU	EBISU YORONIKU	https://tabelog.com/tw/tokyo/A1303/A130302/13211927/
+4.49	4.51	-	かわむら	Kawamura	https://tabelog.com/tw/tokyo/A1301/A130101/13016506/
+4.49	4.49	-	USHIGORO S. NISHIAZABU	USHIGORO S.	https://tabelog.com/tw/tokyo/A1307/A130701/13209611/
+4.49	4.49	-	田ざわ	Tazawa	https://tabelog.com/tw/hokkaido/A0105/A010501/1000077/
+4.49	4.48	-	竹屋町 三多	Mita	https://tabelog.com/tw/kyoto/A2601/A260302/26016620/
+4.48	4.43	4.47	レ セゾン	Les Saisons	https://tabelog.com/tw/tokyo/A1301/A130102/13002294/
+4.47	4.49	3.72	SATOブリアン	SATO Buriand	https://tabelog.com/tw/tokyo/A1319/A131905/13127046/
+4.47	4.33	4.21	すきやばし 次郎	Sukiyabashi Jiro	https://tabelog.com/tw/tokyo/A1301/A130101/13002260/
